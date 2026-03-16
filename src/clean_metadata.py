@@ -1,14 +1,19 @@
 import pandas as pd
 
-df = pd.read_csv("../data/raw/zenodo_metadata.csv")
+# Load raw metadata
+df = pd.read_csv("data/raw/zenodo_metadata.csv")
 
+# Remove extra spaces
 df["title"] = df["title"].str.strip()
 df["authors"] = df["authors"].str.strip()
 
+# Keep only the year from publication date
 df["year"] = df["year"].astype(str).str[:4]
 
-df = df.drop_duplicates(subset=["title","authors"])
+# Remove duplicate records
+df = df.drop_duplicates(subset=["title", "authors"])
 
-df.to_csv("../data/cleaned/metadata_cleaned.csv", index=False)
+# Save cleaned metadata
+df.to_csv("data/cleaned/metadata_cleaned.csv", index=False)
 
 print("Metadata cleaned successfully")

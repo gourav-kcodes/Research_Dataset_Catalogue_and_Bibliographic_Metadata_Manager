@@ -1,6 +1,6 @@
 import sqlite3
 
-conn = sqlite3.connect("../database/datasets.db")
+conn = sqlite3.connect("database/datasets.db")
 
 author = input("Enter author name: ")
 

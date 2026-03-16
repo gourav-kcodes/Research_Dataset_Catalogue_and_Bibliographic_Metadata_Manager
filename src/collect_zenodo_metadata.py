@@ -7,10 +7,13 @@ records = []
 
 params = {
     "q": "machine learning",
-    "size": 100
+    "size": 24,
 }
 
 response = requests.get(base_url, params=params)
+
+print("Status:", response.status_code)
+print(response.text[:500])   # print first 500 characters
 
 data = response.json()
 
@@ -47,6 +50,6 @@ for item in data.get("hits", {}).get("hits", []):
 
 df = pd.DataFrame(records)
 
-df.to_csv("../data/raw/zenodo_metadata.csv", index=False)
+df.to_csv("data/raw/zenodo_metadata.csv", index=False)
 
 print("Collected", len(df), "metadata records")
