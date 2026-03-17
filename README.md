@@ -129,7 +129,7 @@ flowchart TD
     end
 
     subgraph C1 ["Gaurav Kumawat - Database Design & Schema"]
-        C[Define Schema\nRelational PostgreSQL · Document MongoDB]
+        C[Define Schema\nRelational SQLite · Document MongoDB]
         --> C2[Duplicate Detection\nExact DOI · Fuzzy Title Match]
         --> C3[Record Merging\nPrefer most complete record]
         --> C4[(Database - Clean Records Stored)]
@@ -155,7 +155,7 @@ flowchart TD
 Connects to 4 fully automated REST APIs (Zenodo, Kaggle, OpenAlex, and DataCite), fetching 25 records each for a total of 100 records. Handles pagination and rate limits for all API calls. Parses additional local files (CSV and JSON) using `file_parser.py` to demonstrate multi-format support. Computes MD5 hashes for duplicate detection, tags every record with its source, and saves all unique raw records to `data/raw/all_raw.json` for the next stage.
 
 **Gaurav Kumawat - Database Design & Schema**
-Designs and maintains the relational (MySQL) and document-based (MongoDB) schemas that store all bibliographic fields. Implements duplicate detection using exact DOI matching and fuzzy title comparison, and defines the record merging strategy that favours the most complete entry across sources.
+Designs and maintains the relational (SQLite) and document-based (MongoDB) schemas that store all bibliographic fields. Implements duplicate detection using exact DOI matching and fuzzy title comparison, and defines the record merging strategy that favours the most complete entry across sources.
 
 **Parulekar Siyag Avinash - Validation, Normalisation & Versioning**
 Receives raw records from ingestion and validates mandatory fields (title, DOI, year). Normalises author names, DOI formats, and keywords to a consistent standard. Flags incomplete or conflicting records for review and maintains a full version history for every updated record.
@@ -202,7 +202,7 @@ Each module will have a corresponding test file in `tests/`. We use **pytest** a
 
 - Measure query time for keyword search, author lookup, and DOI lookup at 100 records
 - Compare indexed vs non-indexed fields using `EXPLAIN ANALYZE` (MySQL) or equivalent
-- Compare relational (MySQL) vs document-based (MongoDB) storage for read-heavy queries
+- Compare relational (SQLite) vs document-based (MongoDB) storage for read-heavy queries
 - Results documented in `scripts/benchmark.py` output and summarised in final report
 
 ---
