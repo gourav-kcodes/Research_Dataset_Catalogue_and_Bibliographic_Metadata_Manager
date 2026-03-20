@@ -1,0 +1,3671 @@
+[
+  {
+    "id": "https://openalex.org/W4229726281",
+    "title": "The 100-Car Naturalistic Driving Study Phase II \u2013 Results of the 100-Car Field Experiment",
+    "authorships": [],
+    "publication_year": 2001,
+    "doi": null,
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/phase",
+        "display_name": "Phase (matter)",
+        "score": 0.5057375431060791
+      },
+      {
+        "id": "https://openalex.org/keywords/car-driving",
+        "display_name": "Car driving",
+        "score": 0.48728930950164795
+      },
+      {
+        "id": "https://openalex.org/keywords/field",
+        "display_name": "Field (mathematics)",
+        "score": 0.4800235331058502
+      },
+      {
+        "id": "https://openalex.org/keywords/automotive-engineering",
+        "display_name": "Automotive engineering",
+        "score": 0.44435614347457886
+      },
+      {
+        "id": "https://openalex.org/keywords/psychology",
+        "display_name": "Psychology",
+        "score": 0.35781052708625793
+      },
+      {
+        "id": "https://openalex.org/keywords/engineering",
+        "display_name": "Engineering",
+        "score": 0.26890841126441956
+      },
+      {
+        "id": "https://openalex.org/keywords/mathematics",
+        "display_name": "Mathematics",
+        "score": 0.23280766606330872
+      },
+      {
+        "id": "https://openalex.org/keywords/physics",
+        "display_name": "Physics",
+        "score": 0.19697245955467224
+      }
+    ],
+    "primary_location": {
+      "id": "pmh:oai:CiteSeerX.psu:10.1.1.115.7385",
+      "is_oa": false,
+      "landing_page_url": "http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.115.7385",
+      "pdf_url": null,
+      "source": null,
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "http://www-nrd.nhtsa.dot.gov/departments/nrd-13/driver-distraction/pdf/100carmain.pdf",
+      "raw_type": "text"
+    }
+  },
+  {
+    "id": "https://openalex.org/W1981192254",
+    "title": "Projections of Education Statistics to 2020",
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5112288852",
+          "display_name": "Debra E. Gerald",
+          "orcid": null
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": true,
+        "raw_author_name": "Hussar, William J.",
+        "raw_affiliation_strings": [],
+        "affiliations": []
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5062017796",
+          "display_name": "William J. Hussar",
+          "orcid": null
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": false,
+        "raw_author_name": "Gerald, Debra E.",
+        "raw_affiliation_strings": [],
+        "affiliations": []
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": null,
+          "display_name": "National Center for Education Statistics.",
+          "orcid": null
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": false,
+        "raw_author_name": "National Center for Education Statistics.",
+        "raw_affiliation_strings": [],
+        "affiliations": []
+      }
+    ],
+    "publication_year": 2020,
+    "doi": null,
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/statistics",
+        "display_name": "Statistics",
+        "score": 0.5164092183113098
+      },
+      {
+        "id": "https://openalex.org/keywords/statistics-education",
+        "display_name": "Statistics education",
+        "score": 0.4561121463775635
+      },
+      {
+        "id": "https://openalex.org/keywords/data-science",
+        "display_name": "Data science",
+        "score": 0.41824576258659363
+      },
+      {
+        "id": "https://openalex.org/keywords/computer-science",
+        "display_name": "Computer science",
+        "score": 0.3685215711593628
+      },
+      {
+        "id": "https://openalex.org/keywords/mathematics-education",
+        "display_name": "Mathematics education",
+        "score": 0.3588145971298218
+      },
+      {
+        "id": "https://openalex.org/keywords/psychology",
+        "display_name": "Psychology",
+        "score": 0.2505766451358795
+      },
+      {
+        "id": "https://openalex.org/keywords/mathematics",
+        "display_name": "Mathematics",
+        "score": 0.24398955702781677
+      }
+    ],
+    "primary_location": {
+      "id": "pmh:oai:vtechworks.lib.vt.edu:10919/97797",
+      "is_oa": true,
+      "landing_page_url": "http://hdl.handle.net/10919/97797",
+      "pdf_url": "https://vtechworks.lib.vt.edu/bitstreams/b63d90ae-39f8-4655-9908-db66d805c3ab/download",
+      "source": {
+        "id": "https://openalex.org/S4306400248",
+        "display_name": "VTechWorks (Virginia Tech)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I859038795",
+        "host_organization_name": "Virginia Tech",
+        "host_organization_lineage": [
+          "https://openalex.org/I859038795"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "public-domain",
+      "license_id": "https://openalex.org/licenses/public-domain",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "",
+      "raw_type": "Report"
+    }
+  },
+  {
+    "id": "https://openalex.org/W3202966348",
+    "title": "Computational Linguistics",
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5031653479",
+          "display_name": "K\u00f4iti Hasida",
+          "orcid": "https://orcid.org/0000-0002-0639-7745"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I74801974",
+            "display_name": "The University of Tokyo",
+            "ror": "https://ror.org/057zh3y96",
+            "country_code": "JP",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I74801974"
+            ]
+          }
+        ],
+        "countries": [
+          "JP"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Pingali V. V",
+        "raw_affiliation_strings": [
+          "Graduate School of Information Science and Technology, The University of Tokyo, Tokyo, Japan"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Graduate School of Information Science and Technology, The University of Tokyo, Tokyo, Japan",
+            "institution_ids": [
+              "https://openalex.org/I74801974"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5038930719",
+          "display_name": "Win Pa Pa",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I80293557",
+            "display_name": "University of Computer Studies Yangon",
+            "ror": "https://ror.org/019ad8130",
+            "country_code": "MM",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I80293557"
+            ]
+          }
+        ],
+        "countries": [
+          "MM"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Prasad Rao",
+        "raw_affiliation_strings": [
+          "Natural Language Processing Lab, University of Computer Studies, Yangon, Yangon, Myanmar"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Natural Language Processing Lab, University of Computer Studies, Yangon, Yangon, Myanmar",
+            "institution_ids": [
+              "https://openalex.org/I80293557"
+            ]
+          }
+        ]
+      }
+    ],
+    "publication_year": 2014,
+    "doi": "https://doi.org/10.1007/978-981-10-8438-6",
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/phonology",
+        "display_name": "Phonology",
+        "score": 0.7300268411636353
+      },
+      {
+        "id": "https://openalex.org/keywords/computer-science",
+        "display_name": "Computer science",
+        "score": 0.6492413878440857
+      },
+      {
+        "id": "https://openalex.org/keywords/computational-linguistics",
+        "display_name": "Computational linguistics",
+        "score": 0.6137184500694275
+      },
+      {
+        "id": "https://openalex.org/keywords/linguistics",
+        "display_name": "Linguistics",
+        "score": 0.6004366278648376
+      },
+      {
+        "id": "https://openalex.org/keywords/natural-language-processing",
+        "display_name": "Natural language processing",
+        "score": 0.5038167834281921
+      },
+      {
+        "id": "https://openalex.org/keywords/applied-linguistics",
+        "display_name": "Applied linguistics",
+        "score": 0.4577038288116455
+      },
+      {
+        "id": "https://openalex.org/keywords/machine-translation",
+        "display_name": "Machine translation",
+        "score": 0.4523584842681885
+      },
+      {
+        "id": "https://openalex.org/keywords/artificial-intelligence",
+        "display_name": "Artificial intelligence",
+        "score": 0.4375723600387573
+      },
+      {
+        "id": "https://openalex.org/keywords/philosophy",
+        "display_name": "Philosophy",
+        "score": 0.1808234453201294
+      }
+    ],
+    "primary_location": {
+      "id": "doi:10.1007/978-981-10-8438-6",
+      "is_oa": false,
+      "landing_page_url": "http://doi.org/10.1007/978-981-10-8438-6",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S2764900261",
+        "display_name": "Communications in computer and information science",
+        "issn_l": "1865-0929",
+        "issn": [
+          "1865-0929",
+          "1865-0937"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310319900",
+        "host_organization_name": "Springer Science+Business Media",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319900",
+          "https://openalex.org/P4310319965"
+        ],
+        "host_organization_lineage_names": [
+          "Springer Science+Business Media",
+          "Springer Nature"
+        ],
+        "type": "book series"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Communications in Computer and Information Science",
+      "raw_type": "book"
+    }
+  },
+  {
+    "id": "https://openalex.org/W2557607414",
+    "title": "Crime Against Persons With Disabilities, 2009-2013: Statistical Tables",
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5059002185",
+          "display_name": "Erika Harrell",
+          "orcid": null
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": true,
+        "raw_author_name": "Erika Harrell",
+        "raw_affiliation_strings": [],
+        "affiliations": []
+      }
+    ],
+    "publication_year": 2015,
+    "doi": null,
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/statistics",
+        "display_name": "Statistics",
+        "score": 0.616167426109314
+      },
+      {
+        "id": "https://openalex.org/keywords/reliability",
+        "display_name": "Reliability (semiconductor)",
+        "score": 0.5881122350692749
+      },
+      {
+        "id": "https://openalex.org/keywords/psychology",
+        "display_name": "Psychology",
+        "score": 0.4449392259120941
+      },
+      {
+        "id": "https://openalex.org/keywords/econometrics",
+        "display_name": "Econometrics",
+        "score": 0.41764116287231445
+      },
+      {
+        "id": "https://openalex.org/keywords/computer-science",
+        "display_name": "Computer science",
+        "score": 0.33659911155700684
+      },
+      {
+        "id": "https://openalex.org/keywords/mathematics",
+        "display_name": "Mathematics",
+        "score": 0.3253277540206909
+      }
+    ],
+    "primary_location": {
+      "id": "mag:2557607414",
+      "is_oa": false,
+      "landing_page_url": "https://www.hsdl.org/?abstract&did=797056",
+      "pdf_url": null,
+      "source": null,
+      "license": null,
+      "license_id": null,
+      "version": null,
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": null
+    }
+  },
+  {
+    "id": "https://openalex.org/W2909204203",
+    "title": "Program for International Student Assessment",
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5047584949",
+          "display_name": "Miyako Ikeda",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I1288051870",
+            "display_name": "Organisation de Coop\u00e9ration et de D\u00e9veloppement Economiques",
+            "ror": "https://ror.org/0438wbg98",
+            "country_code": "FR",
+            "type": "funder",
+            "lineage": [
+              "https://openalex.org/I1288051870"
+            ]
+          }
+        ],
+        "countries": [
+          "FR"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Miyako Ikeda",
+        "raw_affiliation_strings": [
+          "Organisation for Economic Cooperation and Development"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Organisation for Economic Cooperation and Development",
+            "institution_ids": [
+              "https://openalex.org/I1288051870"
+            ]
+          }
+        ]
+      }
+    ],
+    "publication_year": 2020,
+    "doi": "https://doi.org/10.1108/978-1-64113-939-720251003",
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/mathematics-education",
+        "display_name": "Mathematics education",
+        "score": 0.7225367426872253
+      },
+      {
+        "id": "https://openalex.org/keywords/reading",
+        "display_name": "Reading (process)",
+        "score": 0.5359199047088623
+      },
+      {
+        "id": "https://openalex.org/keywords/literacy",
+        "display_name": "Literacy",
+        "score": 0.49618250131607056
+      },
+      {
+        "id": "https://openalex.org/keywords/grade-level",
+        "display_name": "Grade level",
+        "score": 0.41808658838272095
+      },
+      {
+        "id": "https://openalex.org/keywords/psychology",
+        "display_name": "Psychology",
+        "score": 0.4092404246330261
+      },
+      {
+        "id": "https://openalex.org/keywords/medical-education",
+        "display_name": "Medical education",
+        "score": 0.3774268329143524
+      },
+      {
+        "id": "https://openalex.org/keywords/pedagogy",
+        "display_name": "Pedagogy",
+        "score": 0.32418590784072876
+      },
+      {
+        "id": "https://openalex.org/keywords/medicine",
+        "display_name": "Medicine",
+        "score": 0.1433154046535492
+      },
+      {
+        "id": "https://openalex.org/keywords/political-science",
+        "display_name": "Political science",
+        "score": 0.1225404143333435
+      }
+    ],
+    "primary_location": {
+      "id": "doi:10.1108/978-1-64113-939-720251003",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1108/978-1-64113-939-720251003",
+      "pdf_url": null,
+      "source": null,
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Contemporary Perspectives on Research in Educational Assessment",
+      "raw_type": "book-chapter"
+    }
+  },
+  {
+    "id": "https://openalex.org/W202621797",
+    "title": "The Hamburg Atmosphere-Ocean Coupled Circulation Model ECHO-G",
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5110012525",
+          "display_name": "Stephanie Legutke",
+          "orcid": null
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": true,
+        "raw_author_name": "Legutke, Stephanie",
+        "raw_affiliation_strings": [],
+        "affiliations": []
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5084779379",
+          "display_name": "R. Vo\u00df",
+          "orcid": null
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": false,
+        "raw_author_name": "Voss, Reinhard",
+        "raw_affiliation_strings": [],
+        "affiliations": []
+      }
+    ],
+    "publication_year": 2008,
+    "doi": "https://doi.org/10.2312/wdcc/dkrz_report_no18",
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/atmosphere",
+        "display_name": "Atmosphere (unit)",
+        "score": 0.7463768124580383
+      },
+      {
+        "id": "https://openalex.org/keywords/echo",
+        "display_name": "Echo (communications protocol)",
+        "score": 0.6807279586791992
+      },
+      {
+        "id": "https://openalex.org/keywords/circulation",
+        "display_name": "Circulation (fluid dynamics)",
+        "score": 0.5800944566726685
+      },
+      {
+        "id": "https://openalex.org/keywords/meteorology",
+        "display_name": "Meteorology",
+        "score": 0.5123764276504517
+      },
+      {
+        "id": "https://openalex.org/keywords/environmental-science",
+        "display_name": "Environmental science",
+        "score": 0.44011157751083374
+      },
+      {
+        "id": "https://openalex.org/keywords/climatology",
+        "display_name": "Climatology",
+        "score": 0.4323887228965759
+      },
+      {
+        "id": "https://openalex.org/keywords/atmospheric-sciences",
+        "display_name": "Atmospheric sciences",
+        "score": 0.41917097568511963
+      },
+      {
+        "id": "https://openalex.org/keywords/oceanography",
+        "display_name": "Oceanography",
+        "score": 0.37240803241729736
+      },
+      {
+        "id": "https://openalex.org/keywords/geology",
+        "display_name": "Geology",
+        "score": 0.3534955382347107
+      },
+      {
+        "id": "https://openalex.org/keywords/geography",
+        "display_name": "Geography",
+        "score": 0.3089497983455658
+      },
+      {
+        "id": "https://openalex.org/keywords/physics",
+        "display_name": "Physics",
+        "score": 0.2994745969772339
+      },
+      {
+        "id": "https://openalex.org/keywords/computer-science",
+        "display_name": "Computer science",
+        "score": 0.11697810888290405
+      },
+      {
+        "id": "https://openalex.org/keywords/mechanics",
+        "display_name": "Mechanics",
+        "score": 0.06369578838348389
+      }
+    ],
+    "primary_location": {
+      "id": "doi:10.2312/wdcc/dkrz_report_no18",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.2312/wdcc/dkrz_report_no18",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S7407051128",
+        "display_name": "World Data Center for Climate",
+        "issn_l": null,
+        "issn": [],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": null,
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "article-journal"
+    }
+  },
+  {
+    "id": "https://openalex.org/W2793141427",
+    "title": "The Hamburg Oceanic Carbon Cycle Circulation Model Version \"HAMOCC2s\" for long time integrations",
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5050524996",
+          "display_name": "Christoph Heinze",
+          "orcid": "https://orcid.org/0000-0003-4074-8390"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4210163131",
+            "display_name": "Max Planck Institute for Meteorology",
+            "ror": "https://ror.org/05esem239",
+            "country_code": "DE",
+            "type": "facility",
+            "lineage": [
+              "https://openalex.org/I149899117",
+              "https://openalex.org/I4210163131"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I149899117",
+            "display_name": "Max Planck Society",
+            "ror": "https://ror.org/01hhn8329",
+            "country_code": "DE",
+            "type": "funder",
+            "lineage": [
+              "https://openalex.org/I149899117"
+            ]
+          }
+        ],
+        "countries": [
+          "DE"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Heinze, Christoph",
+        "raw_affiliation_strings": [
+          "MPI for Meteorology, Max Planck Society"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "MPI for Meteorology, Max Planck Society",
+            "institution_ids": [
+              "https://openalex.org/I4210163131",
+              "https://openalex.org/I149899117"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5016039253",
+          "display_name": "E. Maier\u2010Reimer",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4210163131",
+            "display_name": "Max Planck Institute for Meteorology",
+            "ror": "https://ror.org/05esem239",
+            "country_code": "DE",
+            "type": "facility",
+            "lineage": [
+              "https://openalex.org/I149899117",
+              "https://openalex.org/I4210163131"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I149899117",
+            "display_name": "Max Planck Society",
+            "ror": "https://ror.org/01hhn8329",
+            "country_code": "DE",
+            "type": "funder",
+            "lineage": [
+              "https://openalex.org/I149899117"
+            ]
+          }
+        ],
+        "countries": [
+          "DE"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Maier-Reimer, Ernst",
+        "raw_affiliation_strings": [
+          "MPI for Meteorology, Max Planck Society"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "MPI for Meteorology, Max Planck Society",
+            "institution_ids": [
+              "https://openalex.org/I4210163131",
+              "https://openalex.org/I149899117"
+            ]
+          }
+        ]
+      }
+    ],
+    "publication_year": 2008,
+    "doi": "https://doi.org/10.2312/wdcc/dkrz_report_no20",
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/climatology",
+        "display_name": "Climatology",
+        "score": 0.620702862739563
+      },
+      {
+        "id": "https://openalex.org/keywords/circulation",
+        "display_name": "Circulation (fluid dynamics)",
+        "score": 0.5546193718910217
+      },
+      {
+        "id": "https://openalex.org/keywords/carbon-cycle",
+        "display_name": "Carbon cycle",
+        "score": 0.5120463967323303
+      },
+      {
+        "id": "https://openalex.org/keywords/environmental-science",
+        "display_name": "Environmental science",
+        "score": 0.4638981819152832
+      },
+      {
+        "id": "https://openalex.org/keywords/meteorology",
+        "display_name": "Meteorology",
+        "score": 0.4117073714733124
+      },
+      {
+        "id": "https://openalex.org/keywords/atmospheric-sciences",
+        "display_name": "Atmospheric sciences",
+        "score": 0.3700430989265442
+      },
+      {
+        "id": "https://openalex.org/keywords/geology",
+        "display_name": "Geology",
+        "score": 0.29787230491638184
+      },
+      {
+        "id": "https://openalex.org/keywords/physics",
+        "display_name": "Physics",
+        "score": 0.1931557059288025
+      },
+      {
+        "id": "https://openalex.org/keywords/mechanics",
+        "display_name": "Mechanics",
+        "score": 0.09180837869644165
+      },
+      {
+        "id": "https://openalex.org/keywords/biology",
+        "display_name": "Biology",
+        "score": 0.062110453844070435
+      }
+    ],
+    "primary_location": {
+      "id": "doi:10.2312/wdcc/dkrz_report_no20",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.2312/wdcc/dkrz_report_no20",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S7407051128",
+        "display_name": "World Data Center for Climate",
+        "issn_l": null,
+        "issn": [],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": null,
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "article-journal"
+    }
+  },
+  {
+    "id": "https://openalex.org/W3088837316",
+    "title": "ReKliEs-De Ergebnisbericht",
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5049539258",
+          "display_name": "Heike H\u00fcbener",
+          "orcid": null
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": true,
+        "raw_author_name": "H\u00fcbener, Heike",
+        "raw_affiliation_strings": [],
+        "affiliations": []
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5042223602",
+          "display_name": "Katharina B\u00fclow",
+          "orcid": "https://orcid.org/0000-0002-3489-0529"
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": false,
+        "raw_author_name": "B\u00fclow, Katharina",
+        "raw_affiliation_strings": [],
+        "affiliations": []
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5059215045",
+          "display_name": "Cornelia Fooken",
+          "orcid": null
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": false,
+        "raw_author_name": "Fooken, Cornelia",
+        "raw_affiliation_strings": [],
+        "affiliations": []
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5040178221",
+          "display_name": "Barbara Fr\u00fch",
+          "orcid": "https://orcid.org/0000-0002-9283-6627"
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": false,
+        "raw_author_name": "Fr\u00fch, Barbara",
+        "raw_affiliation_strings": [],
+        "affiliations": []
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5005158944",
+          "display_name": "Peter Hoffmann",
+          "orcid": "https://orcid.org/0000-0003-0198-0613"
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": false,
+        "raw_author_name": "Hoffmann, Peter",
+        "raw_affiliation_strings": [],
+        "affiliations": []
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5046585417",
+          "display_name": "Simona H\u00f6pp",
+          "orcid": null
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": false,
+        "raw_author_name": "H\u00f6pp, Simona",
+        "raw_affiliation_strings": [],
+        "affiliations": []
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5024333909",
+          "display_name": "Klaus Keuler",
+          "orcid": "https://orcid.org/0000-0002-3745-8125"
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": false,
+        "raw_author_name": "Keuler, Klaus",
+        "raw_affiliation_strings": [],
+        "affiliations": []
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5069849816",
+          "display_name": "Christoph Menz",
+          "orcid": "https://orcid.org/0000-0001-5127-1554"
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": false,
+        "raw_author_name": "Menz, Christoph",
+        "raw_affiliation_strings": [],
+        "affiliations": []
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5058388729",
+          "display_name": "Victoria E. Mohr",
+          "orcid": "https://orcid.org/0000-0001-9252-4407"
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": false,
+        "raw_author_name": "Mohr, Viktoria",
+        "raw_affiliation_strings": [],
+        "affiliations": []
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5004463923",
+          "display_name": "Kai Radtke",
+          "orcid": "https://orcid.org/0009-0001-3056-438X"
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": false,
+        "raw_author_name": "Radtke, Kai",
+        "raw_affiliation_strings": [],
+        "affiliations": []
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5018292971",
+          "display_name": "Hans Ramthun",
+          "orcid": "https://orcid.org/0000-0002-1777-9132"
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": false,
+        "raw_author_name": "Ramthun, Hans",
+        "raw_affiliation_strings": [],
+        "affiliations": []
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5049157267",
+          "display_name": "Arne Spekat",
+          "orcid": null
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": false,
+        "raw_author_name": "Spekat, Arne",
+        "raw_affiliation_strings": [],
+        "affiliations": []
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5048811541",
+          "display_name": "Christian Steger",
+          "orcid": "https://orcid.org/0000-0002-4441-266X"
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": false,
+        "raw_author_name": "Steger, Christian",
+        "raw_affiliation_strings": [],
+        "affiliations": []
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5015538951",
+          "display_name": "Frank Toussaint",
+          "orcid": "https://orcid.org/0000-0002-5688-0372"
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": false,
+        "raw_author_name": "Toussaint, Frank",
+        "raw_affiliation_strings": [],
+        "affiliations": []
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5015466293",
+          "display_name": "Kirsten Warrach\u2010Sagi",
+          "orcid": "https://orcid.org/0000-0003-2572-8527"
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": false,
+        "raw_author_name": "Warrach-Sagi, Kirsten",
+        "raw_affiliation_strings": [],
+        "affiliations": []
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5067223081",
+          "display_name": "Michael Woldt",
+          "orcid": null
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": false,
+        "raw_author_name": "Woldt, Michael",
+        "raw_affiliation_strings": [],
+        "affiliations": []
+      }
+    ],
+    "publication_year": 2017,
+    "doi": "https://doi.org/10.2312/wdcc/rekliesde_ergebnisbericht",
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/computer-science",
+        "display_name": "Computer science",
+        "score": 0.3034118413925171
+      }
+    ],
+    "primary_location": {
+      "id": "doi:10.2312/wdcc/rekliesde_ergebnisbericht",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.2312/wdcc/rekliesde_ergebnisbericht",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S7407051128",
+        "display_name": "World Data Center for Climate",
+        "issn_l": null,
+        "issn": [],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": null,
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "article-journal"
+    }
+  },
+  {
+    "id": "https://openalex.org/W4290476445",
+    "title": "Antibiogram Of Biofield-Treated Shigella Boydii: Global Burden Of Infections",
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5011199027",
+          "display_name": "Mahendra Kumar Trivedi",
+          "orcid": "https://orcid.org/0000-0002-2548-780X"
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": true,
+        "raw_author_name": "Mahendra, Trivedi",
+        "raw_affiliation_strings": [
+          "Trivedi Global Inc"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Trivedi Global Inc",
+            "institution_ids": []
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5075733620",
+          "display_name": "Alice Branton",
+          "orcid": "https://orcid.org/0000-0002-3363-3520"
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": false,
+        "raw_author_name": "Alice, Branton",
+        "raw_affiliation_strings": [
+          "Trivedi Global Inc"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Trivedi Global Inc",
+            "institution_ids": []
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5049682184",
+          "display_name": "Dahryn Trivedi",
+          "orcid": "https://orcid.org/0000-0002-3133-8675"
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": false,
+        "raw_author_name": "Dahryn, Trivedi",
+        "raw_affiliation_strings": [
+          "Trivedi Global Inc"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Trivedi Global Inc",
+            "institution_ids": []
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5107932107",
+          "display_name": "Gopal Nayak",
+          "orcid": null
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": false,
+        "raw_author_name": "Gopal, Nayak",
+        "raw_affiliation_strings": [
+          "Trivedi Global Inc"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Trivedi Global Inc",
+            "institution_ids": []
+          }
+        ]
+      }
+    ],
+    "publication_year": 2015,
+    "doi": "https://doi.org/10.5281/zenodo.813623",
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/antibiogram",
+        "display_name": "Antibiogram",
+        "score": 0.9263836145401001
+      },
+      {
+        "id": "https://openalex.org/keywords/shigella-boydii",
+        "display_name": "Shigella boydii",
+        "score": 0.8643605709075928
+      },
+      {
+        "id": "https://openalex.org/keywords/microbiology",
+        "display_name": "Microbiology",
+        "score": 0.6281301379203796
+      },
+      {
+        "id": "https://openalex.org/keywords/shigella",
+        "display_name": "Shigella",
+        "score": 0.5726501941680908
+      },
+      {
+        "id": "https://openalex.org/keywords/medicine",
+        "display_name": "Medicine",
+        "score": 0.42967522144317627
+      },
+      {
+        "id": "https://openalex.org/keywords/biology",
+        "display_name": "Biology",
+        "score": 0.37206441164016724
+      },
+      {
+        "id": "https://openalex.org/keywords/antibiotics",
+        "display_name": "Antibiotics",
+        "score": 0.3167148530483246
+      },
+      {
+        "id": "https://openalex.org/keywords/antibiotic-resistance",
+        "display_name": "Antibiotic resistance",
+        "score": 0.19498994946479797
+      },
+      {
+        "id": "https://openalex.org/keywords/salmonella",
+        "display_name": "Salmonella",
+        "score": 0.19162532687187195
+      },
+      {
+        "id": "https://openalex.org/keywords/bacteria",
+        "display_name": "Bacteria",
+        "score": 0.12471690773963928
+      }
+    ],
+    "primary_location": {
+      "id": "doi:10.5281/zenodo.813623",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.5281/zenodo.813623",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306400562",
+        "display_name": "Zenodo (CERN European Organization for Nuclear Research)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I67311998",
+        "host_organization_name": "European Organization for Nuclear Research",
+        "host_organization_lineage": [
+          "https://openalex.org/I67311998"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": null,
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "article-journal"
+    }
+  },
+  {
+    "id": "https://openalex.org/W173990151",
+    "title": "The WAM Model cycle 4",
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5108712823",
+          "display_name": "Heinz G\u00fcnther",
+          "orcid": null
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": true,
+        "raw_author_name": "G\u00fcnther, Heinz",
+        "raw_affiliation_strings": [],
+        "affiliations": []
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5109007895",
+          "display_name": "Susanne Hasselmann",
+          "orcid": null
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": false,
+        "raw_author_name": "Hasselmann, Susanne",
+        "raw_affiliation_strings": [],
+        "affiliations": []
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5076425393",
+          "display_name": "P.A.E.M. Janssen",
+          "orcid": null
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": false,
+        "raw_author_name": "Janssen, P.A.E.M.",
+        "raw_affiliation_strings": [],
+        "affiliations": []
+      }
+    ],
+    "publication_year": 2009,
+    "doi": "https://doi.org/10.2312/wdcc/dkrz_report_no04",
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/computer-science",
+        "display_name": "Computer science",
+        "score": 0.43436217308044434
+      }
+    ],
+    "primary_location": {
+      "id": "doi:10.2312/wdcc/dkrz_report_no04",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.2312/wdcc/dkrz_report_no04",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S7407051128",
+        "display_name": "World Data Center for Climate",
+        "issn_l": null,
+        "issn": [],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": null,
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "article-journal"
+    }
+  },
+  {
+    "id": "https://openalex.org/W3160271279",
+    "title": "An annotated checklist of the inland fishes of Sulawesi",
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5050360890",
+          "display_name": "Renny K. Hadiaty",
+          "orcid": "https://orcid.org/0000-0003-4597-5314"
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": true,
+        "raw_author_name": "Hadiaty, Renny Kurnia",
+        "raw_affiliation_strings": [],
+        "affiliations": []
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5016336963",
+          "display_name": "Fabian Herder",
+          "orcid": null
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": false,
+        "raw_author_name": "Droppelmann, Fabian",
+        "raw_affiliation_strings": [],
+        "affiliations": []
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5005850558",
+          "display_name": "Friedrich Wilhelm Miesen",
+          "orcid": null
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": false,
+        "raw_author_name": "Miesen, Friedrich Wilhelm",
+        "raw_affiliation_strings": [],
+        "affiliations": []
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5021222964",
+          "display_name": "Droppelmann Fabian",
+          "orcid": null
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": false,
+        "raw_author_name": "Herder, Fabian",
+        "raw_affiliation_strings": [],
+        "affiliations": []
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5091188371",
+          "display_name": "Sebastian H\u00c3 \u2044 llen",
+          "orcid": null
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": false,
+        "raw_author_name": "H\u00fcllen, Sebastian",
+        "raw_affiliation_strings": [],
+        "affiliations": []
+      }
+    ],
+    "publication_year": 2018,
+    "doi": "https://doi.org/10.4126/frl01-006408908",
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/fauna",
+        "display_name": "Fauna",
+        "score": 0.6688563823699951
+      },
+      {
+        "id": "https://openalex.org/keywords/ecology",
+        "display_name": "Ecology",
+        "score": 0.6188647747039795
+      },
+      {
+        "id": "https://openalex.org/keywords/habitat",
+        "display_name": "Habitat",
+        "score": 0.5549806952476501
+      },
+      {
+        "id": "https://openalex.org/keywords/biology",
+        "display_name": "Biology",
+        "score": 0.5377213358879089
+      },
+      {
+        "id": "https://openalex.org/keywords/euryhaline",
+        "display_name": "Euryhaline",
+        "score": 0.49924683570861816
+      },
+      {
+        "id": "https://openalex.org/keywords/taxon",
+        "display_name": "Taxon",
+        "score": 0.46697354316711426
+      },
+      {
+        "id": "https://openalex.org/keywords/species-diversity",
+        "display_name": "Species diversity",
+        "score": 0.4103219509124756
+      },
+      {
+        "id": "https://openalex.org/keywords/geography",
+        "display_name": "Geography",
+        "score": 0.4082590341567993
+      },
+      {
+        "id": "https://openalex.org/keywords/fishery",
+        "display_name": "Fishery",
+        "score": 0.3479684293270111
+      },
+      {
+        "id": "https://openalex.org/keywords/fish-actinopterygii",
+        "display_name": "Fish <Actinopterygii>",
+        "score": 0.34356170892715454
+      }
+    ],
+    "primary_location": {
+      "id": "pmh:oai:frl.publisso.de:frl:6408908",
+      "is_oa": true,
+      "landing_page_url": "https://repository.publisso.de/resource/frl:6408908",
+      "pdf_url": "https://repository.publisso.de/resource/frl:6408908",
+      "source": {
+        "id": "https://openalex.org/S4377196269",
+        "display_name": "PUBLISSO (German National Library of Medicine)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I4210112663",
+        "host_organization_name": "ZB MED - Information Centre for Life Sciences",
+        "host_organization_lineage": [
+          "https://openalex.org/I4210112663"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "http://lobid.org/resources/HT016356978#!, 64(2): 77-106",
+      "raw_type": "Zeitschriftenartikel"
+    }
+  },
+  {
+    "id": "https://openalex.org/W2786564736",
+    "title": "PUMA Portable University Model of the Atmosphere",
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5088276558",
+          "display_name": "Klaus Fraedrich",
+          "orcid": "https://orcid.org/0000-0002-9881-0794"
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": true,
+        "raw_author_name": "Fraedrich, Klaus",
+        "raw_affiliation_strings": [],
+        "affiliations": []
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5002129056",
+          "display_name": "Edilbert Kirk",
+          "orcid": null
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": false,
+        "raw_author_name": "Kirk, Edilbert",
+        "raw_affiliation_strings": [],
+        "affiliations": []
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5079145842",
+          "display_name": "Frank Lunkeit",
+          "orcid": "https://orcid.org/0000-0002-7854-8282"
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": false,
+        "raw_author_name": "Lunkeit, Frank",
+        "raw_affiliation_strings": [],
+        "affiliations": []
+      }
+    ],
+    "publication_year": 2009,
+    "doi": "https://doi.org/10.2312/wdcc/dkrz_report_no16",
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/atmosphere",
+        "display_name": "Atmosphere (unit)",
+        "score": 0.7214807271957397
+      },
+      {
+        "id": "https://openalex.org/keywords/puma",
+        "display_name": "Puma",
+        "score": 0.6925286650657654
+      },
+      {
+        "id": "https://openalex.org/keywords/environmental-science",
+        "display_name": "Environmental science",
+        "score": 0.4225541949272156
+      },
+      {
+        "id": "https://openalex.org/keywords/chemistry",
+        "display_name": "Chemistry",
+        "score": 0.27195847034454346
+      },
+      {
+        "id": "https://openalex.org/keywords/meteorology",
+        "display_name": "Meteorology",
+        "score": 0.26311612129211426
+      },
+      {
+        "id": "https://openalex.org/keywords/geography",
+        "display_name": "Geography",
+        "score": 0.23656204342842102
+      }
+    ],
+    "primary_location": {
+      "id": "doi:10.2312/wdcc/dkrz_report_no16",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.2312/wdcc/dkrz_report_no16",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S7407051128",
+        "display_name": "World Data Center for Climate",
+        "issn_l": null,
+        "issn": [],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": null,
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "article-journal"
+    }
+  },
+  {
+    "id": "https://openalex.org/W2911631054",
+    "title": "Scenario analysis notebooks for the IPCC Special Report on Global Warming of 1.5 C",
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5064150741",
+          "display_name": "Daniel Huppmann",
+          "orcid": "https://orcid.org/0000-0002-7729-7389"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4210157292",
+            "display_name": "Yamasa Corporation (Japan)",
+            "ror": "https://ror.org/04t4e0r52",
+            "country_code": "JP",
+            "type": "company",
+            "lineage": [
+              "https://openalex.org/I4210157292"
+            ]
+          }
+        ],
+        "countries": [
+          "JP"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Huppmann, D.",
+        "raw_affiliation_strings": [
+          "IIASA (ENE)"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "IIASA (ENE)",
+            "institution_ids": [
+              "https://openalex.org/I4210157292"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5017820045",
+          "display_name": "Joeri Rogelj",
+          "orcid": "https://orcid.org/0000-0003-2056-9061"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4210157292",
+            "display_name": "Yamasa Corporation (Japan)",
+            "ror": "https://ror.org/04t4e0r52",
+            "country_code": "JP",
+            "type": "company",
+            "lineage": [
+              "https://openalex.org/I4210157292"
+            ]
+          }
+        ],
+        "countries": [
+          "JP"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Rogelj, J.",
+        "raw_affiliation_strings": [
+          "IIASA (ENE)"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "IIASA (ENE)",
+            "institution_ids": [
+              "https://openalex.org/I4210157292"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5023849961",
+          "display_name": "Elmar Kriegler",
+          "orcid": "https://orcid.org/0000-0002-3307-2647"
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": false,
+        "raw_author_name": "Kriegler, E.",
+        "raw_affiliation_strings": [],
+        "affiliations": []
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5066818775",
+          "display_name": "Luis Mundaca",
+          "orcid": "https://orcid.org/0000-0002-1090-7744"
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": false,
+        "raw_author_name": "Mundaca, L.",
+        "raw_affiliation_strings": [],
+        "affiliations": []
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5036642769",
+          "display_name": "Piers Forster",
+          "orcid": "https://orcid.org/0000-0002-6078-0171"
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": false,
+        "raw_author_name": "Forster, P.",
+        "raw_affiliation_strings": [],
+        "affiliations": []
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5101968884",
+          "display_name": "S Kobayashi",
+          "orcid": "https://orcid.org/0000-0002-1939-3380"
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": false,
+        "raw_author_name": "Kobayashi, S.",
+        "raw_affiliation_strings": [],
+        "affiliations": []
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5019912667",
+          "display_name": "Roland S\u00e9f\u00e9rian",
+          "orcid": "https://orcid.org/0000-0002-2571-2114"
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": false,
+        "raw_author_name": "Seferian, R.",
+        "raw_affiliation_strings": [],
+        "affiliations": []
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5022454434",
+          "display_name": "Maria Virginia Vilari\u00f1o",
+          "orcid": null
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": false,
+        "raw_author_name": "Vilarino, M.V.",
+        "raw_affiliation_strings": [],
+        "affiliations": []
+      }
+    ],
+    "publication_year": 2018,
+    "doi": "https://doi.org/10.22022/sr15/08-2018.15428",
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/global-warming",
+        "display_name": "Global warming",
+        "score": 0.6629961729049683
+      },
+      {
+        "id": "https://openalex.org/keywords/climatology",
+        "display_name": "Climatology",
+        "score": 0.553104817867279
+      },
+      {
+        "id": "https://openalex.org/keywords/environmental-science",
+        "display_name": "Environmental science",
+        "score": 0.4377831220626831
+      },
+      {
+        "id": "https://openalex.org/keywords/meteorology",
+        "display_name": "Meteorology",
+        "score": 0.4076368808746338
+      },
+      {
+        "id": "https://openalex.org/keywords/geography",
+        "display_name": "Geography",
+        "score": 0.3600988984107971
+      },
+      {
+        "id": "https://openalex.org/keywords/environmental-resource-management",
+        "display_name": "Environmental resource management",
+        "score": 0.342867374420166
+      },
+      {
+        "id": "https://openalex.org/keywords/climate-change",
+        "display_name": "Climate change",
+        "score": 0.3343822658061981
+      },
+      {
+        "id": "https://openalex.org/keywords/ecology",
+        "display_name": "Ecology",
+        "score": 0.08123433589935303
+      }
+    ],
+    "primary_location": {
+      "id": "pmh:oai:pure.iiasa.ac.at:15428",
+      "is_oa": false,
+      "landing_page_url": "http://pure.iiasa.ac.at/id/eprint/15428/1/ipcc_sr15_scenario_analysis-1.0_sr15_softlaunch.tar.gz",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401423",
+        "display_name": "IIASA PURE (International Institute of Applied Systems Analysis)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1317774081",
+        "host_organization_name": "International Institute for Applied Systems Analysis",
+        "host_organization_lineage": [
+          "https://openalex.org/I1317774081"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "acceptedVersion",
+      "is_accepted": true,
+      "is_published": false,
+      "raw_source_name": "",
+      "raw_type": "Dataset"
+    }
+  },
+  {
+    "id": "https://openalex.org/W2773391462",
+    "title": "Scholix Metadata Schema For Exchange Of Scholarly Communication Links",
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5056487323",
+          "display_name": "Adrian Burton",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4210145625",
+            "display_name": "British Society of Soil Science",
+            "ror": "https://ror.org/05c4vv049",
+            "country_code": "GB",
+            "type": "nonprofit",
+            "lineage": [
+              "https://openalex.org/I4210145625"
+            ]
+          }
+        ],
+        "countries": [
+          "GB"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Burton, Adrian",
+        "raw_affiliation_strings": [
+          "ANDS"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "ANDS",
+            "institution_ids": [
+              "https://openalex.org/I4210145625"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5069389160",
+          "display_name": "Martin Fenner",
+          "orcid": "https://orcid.org/0000-0003-1419-2405"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4210145204",
+            "display_name": "DataCite",
+            "ror": "https://ror.org/04wxnsj81",
+            "country_code": "DE",
+            "type": "nonprofit",
+            "lineage": [
+              "https://openalex.org/I4210145204"
+            ]
+          }
+        ],
+        "countries": [
+          "DE"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Fenner, Martin",
+        "raw_affiliation_strings": [
+          "DataCite"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "DataCite",
+            "institution_ids": [
+              "https://openalex.org/I4210145204"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5064390468",
+          "display_name": "Wouter Haak",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I1318003438",
+            "display_name": "RELX Group (Netherlands)",
+            "ror": "https://ror.org/02scfj030",
+            "country_code": "NL",
+            "type": "company",
+            "lineage": [
+              "https://openalex.org/I1318003438",
+              "https://openalex.org/I4210160603"
+            ]
+          }
+        ],
+        "countries": [
+          "NL"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Haak, Wouter",
+        "raw_affiliation_strings": [
+          "Elsevier BV"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Elsevier BV",
+            "institution_ids": [
+              "https://openalex.org/I1318003438"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5087882533",
+          "display_name": "Paolo Manghi",
+          "orcid": "https://orcid.org/0000-0001-7291-3210"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4210104311",
+            "display_name": "Institute of Scientific and Technical Information of China",
+            "ror": "https://ror.org/01b2av652",
+            "country_code": "CN",
+            "type": "government",
+            "lineage": [
+              "https://openalex.org/I4210104311",
+              "https://openalex.org/I4210120069",
+              "https://openalex.org/I4210127390"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I122991210",
+            "display_name": "Istituto di Scienza e Tecnologie dell'Informazione \"Alessandro Faedo\"",
+            "ror": "https://ror.org/05kacka20",
+            "country_code": "IT",
+            "type": "facility",
+            "lineage": [
+              "https://openalex.org/I122991210",
+              "https://openalex.org/I4210155236"
+            ]
+          }
+        ],
+        "countries": [
+          "CN",
+          "IT"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Manghi, Paolo",
+        "raw_affiliation_strings": [
+          "ISTI - CNR"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "ISTI - CNR",
+            "institution_ids": [
+              "https://openalex.org/I122991210",
+              "https://openalex.org/I4210104311"
+            ]
+          }
+        ]
+      }
+    ],
+    "publication_year": 2017,
+    "doi": "https://doi.org/10.5281/zenodo.1120265",
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/interoperability",
+        "display_name": "Interoperability",
+        "score": 0.8110612630844116
+      },
+      {
+        "id": "https://openalex.org/keywords/metadata",
+        "display_name": "Metadata",
+        "score": 0.7235512137413025
+      },
+      {
+        "id": "https://openalex.org/keywords/computer-science",
+        "display_name": "Computer science",
+        "score": 0.6741277575492859
+      },
+      {
+        "id": "https://openalex.org/keywords/world-wide-web",
+        "display_name": "World Wide Web",
+        "score": 0.5754656791687012
+      },
+      {
+        "id": "https://openalex.org/keywords/scholarly-communication",
+        "display_name": "Scholarly communication",
+        "score": 0.5704554319381714
+      },
+      {
+        "id": "https://openalex.org/keywords/schema",
+        "display_name": "Schema (genetic algorithms)",
+        "score": 0.5261375904083252
+      },
+      {
+        "id": "https://openalex.org/keywords/information-exchange",
+        "display_name": "Information exchange",
+        "score": 0.5009894371032715
+      },
+      {
+        "id": "https://openalex.org/keywords/workflow",
+        "display_name": "Workflow",
+        "score": 0.5009765625
+      },
+      {
+        "id": "https://openalex.org/keywords/data-science",
+        "display_name": "Data science",
+        "score": 0.419276624917984
+      },
+      {
+        "id": "https://openalex.org/keywords/data-exchange",
+        "display_name": "Data exchange",
+        "score": 0.41832536458969116
+      },
+      {
+        "id": "https://openalex.org/keywords/knowledge-management",
+        "display_name": "Knowledge management",
+        "score": 0.3424755334854126
+      },
+      {
+        "id": "https://openalex.org/keywords/information-retrieval",
+        "display_name": "Information retrieval",
+        "score": 0.2398201823234558
+      },
+      {
+        "id": "https://openalex.org/keywords/publishing",
+        "display_name": "Publishing",
+        "score": 0.183487206697464
+      },
+      {
+        "id": "https://openalex.org/keywords/database",
+        "display_name": "Database",
+        "score": 0.14486539363861084
+      },
+      {
+        "id": "https://openalex.org/keywords/telecommunications",
+        "display_name": "Telecommunications",
+        "score": 0.1076849102973938
+      },
+      {
+        "id": "https://openalex.org/keywords/political-science",
+        "display_name": "Political science",
+        "score": 0.10490259528160095
+      }
+    ],
+    "primary_location": {
+      "id": "doi:10.5281/zenodo.1120265",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.5281/zenodo.1120265",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306400562",
+        "display_name": "Zenodo (CERN European Organization for Nuclear Research)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I67311998",
+        "host_organization_name": "European Organization for Nuclear Research",
+        "host_organization_lineage": [
+          "https://openalex.org/I67311998"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": null,
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "article-journal"
+    }
+  },
+  {
+    "id": "https://openalex.org/W2794242432",
+    "title": "Climatology and Internal Variability in a 1000-Year Control Simulation with the Coupled Climate Model ECHO-G",
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5065335305",
+          "display_name": "Seung\u2010Ki Min",
+          "orcid": "https://orcid.org/0000-0002-6749-010X"
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": true,
+        "raw_author_name": "Min, Seung-Ki",
+        "raw_affiliation_strings": [],
+        "affiliations": []
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5110012525",
+          "display_name": "Stephanie Legutke",
+          "orcid": null
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": false,
+        "raw_author_name": "Legutke, Stephanie",
+        "raw_affiliation_strings": [],
+        "affiliations": []
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5048302093",
+          "display_name": "Andreas Hense",
+          "orcid": "https://orcid.org/0000-0002-9251-146X"
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": false,
+        "raw_author_name": "Hense, Andreas",
+        "raw_affiliation_strings": [],
+        "affiliations": []
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5112009733",
+          "display_name": "Won\u2010Tae Kwon",
+          "orcid": null
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": false,
+        "raw_author_name": "Kwon, Won-Tae",
+        "raw_affiliation_strings": [],
+        "affiliations": []
+      }
+    ],
+    "publication_year": 2008,
+    "doi": "https://doi.org/10.2312/wdcc/mad_tereport_no02",
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/climatology",
+        "display_name": "Climatology",
+        "score": 0.6875851154327393
+      },
+      {
+        "id": "https://openalex.org/keywords/echo",
+        "display_name": "Echo (communications protocol)",
+        "score": 0.6307057738304138
+      },
+      {
+        "id": "https://openalex.org/keywords/climate-model",
+        "display_name": "Climate model",
+        "score": 0.5419341921806335
+      },
+      {
+        "id": "https://openalex.org/keywords/climate-simulation",
+        "display_name": "Climate simulation",
+        "score": 0.5347551107406616
+      },
+      {
+        "id": "https://openalex.org/keywords/environmental-science",
+        "display_name": "Environmental science",
+        "score": 0.5322553515434265
+      },
+      {
+        "id": "https://openalex.org/keywords/meteorology",
+        "display_name": "Meteorology",
+        "score": 0.4005263149738312
+      },
+      {
+        "id": "https://openalex.org/keywords/atmospheric-sciences",
+        "display_name": "Atmospheric sciences",
+        "score": 0.37774375081062317
+      },
+      {
+        "id": "https://openalex.org/keywords/climate-change",
+        "display_name": "Climate change",
+        "score": 0.22654271125793457
+      },
+      {
+        "id": "https://openalex.org/keywords/geography",
+        "display_name": "Geography",
+        "score": 0.20275887846946716
+      },
+      {
+        "id": "https://openalex.org/keywords/physics",
+        "display_name": "Physics",
+        "score": 0.19122973084449768
+      },
+      {
+        "id": "https://openalex.org/keywords/geology",
+        "display_name": "Geology",
+        "score": 0.170694500207901
+      },
+      {
+        "id": "https://openalex.org/keywords/computer-science",
+        "display_name": "Computer science",
+        "score": 0.13865408301353455
+      },
+      {
+        "id": "https://openalex.org/keywords/oceanography",
+        "display_name": "Oceanography",
+        "score": 0.09534940123558044
+      }
+    ],
+    "primary_location": {
+      "id": "doi:10.2312/wdcc/mad_tereport_no02",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.2312/wdcc/mad_tereport_no02",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S7407051128",
+        "display_name": "World Data Center for Climate",
+        "issn_l": null,
+        "issn": [],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": null,
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "article-journal"
+    }
+  },
+  {
+    "id": "https://openalex.org/W2794016860",
+    "title": "The ECHAM 3 Atmospheric General Circulation Model",
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5054757337",
+          "display_name": "Deutsches Klimarechenzentrum",
+          "orcid": null
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": true,
+        "raw_author_name": "Deutsches Klimarechenzentrum",
+        "raw_affiliation_strings": [],
+        "affiliations": []
+      }
+    ],
+    "publication_year": 2009,
+    "doi": "https://doi.org/10.2312/wdcc/dkrz_report_no06",
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/general-circulation-model",
+        "display_name": "General Circulation Model",
+        "score": 0.6236125826835632
+      },
+      {
+        "id": "https://openalex.org/keywords/circulation",
+        "display_name": "Circulation (fluid dynamics)",
+        "score": 0.5378967523574829
+      },
+      {
+        "id": "https://openalex.org/keywords/atmospheric-circulation",
+        "display_name": "Atmospheric circulation",
+        "score": 0.52530437707901
+      },
+      {
+        "id": "https://openalex.org/keywords/atmospheric-sciences",
+        "display_name": "Atmospheric sciences",
+        "score": 0.5179139971733093
+      },
+      {
+        "id": "https://openalex.org/keywords/environmental-science",
+        "display_name": "Environmental science",
+        "score": 0.4977865219116211
+      },
+      {
+        "id": "https://openalex.org/keywords/climatology",
+        "display_name": "Climatology",
+        "score": 0.47851336002349854
+      },
+      {
+        "id": "https://openalex.org/keywords/meteorology",
+        "display_name": "Meteorology",
+        "score": 0.37312692403793335
+      },
+      {
+        "id": "https://openalex.org/keywords/geography",
+        "display_name": "Geography",
+        "score": 0.21797719597816467
+      },
+      {
+        "id": "https://openalex.org/keywords/geology",
+        "display_name": "Geology",
+        "score": 0.2027094066143036
+      },
+      {
+        "id": "https://openalex.org/keywords/oceanography",
+        "display_name": "Oceanography",
+        "score": 0.17776721715927124
+      },
+      {
+        "id": "https://openalex.org/keywords/physics",
+        "display_name": "Physics",
+        "score": 0.12087279558181763
+      },
+      {
+        "id": "https://openalex.org/keywords/climate-change",
+        "display_name": "Climate change",
+        "score": 0.08282583951950073
+      },
+      {
+        "id": "https://openalex.org/keywords/thermodynamics",
+        "display_name": "Thermodynamics",
+        "score": 0.0633721649646759
+      }
+    ],
+    "primary_location": {
+      "id": "doi:10.2312/wdcc/dkrz_report_no06",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.2312/wdcc/dkrz_report_no06",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S7407051128",
+        "display_name": "World Data Center for Climate",
+        "issn_l": null,
+        "issn": [],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": null,
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "article-journal"
+    }
+  },
+  {
+    "id": "https://openalex.org/W4229558594",
+    "title": "A Databank of Antarctic Surface Temperature and Pressure Data (NDP-032)",
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5026935547",
+          "display_name": "P. D. Jones",
+          "orcid": "https://orcid.org/0000-0001-5032-5493"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I1118541",
+            "display_name": "University of East Anglia",
+            "ror": "https://ror.org/026k5mg93",
+            "country_code": "GB",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I1118541"
+            ]
+          }
+        ],
+        "countries": [
+          "GB"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Jones, P. D",
+        "raw_affiliation_strings": [
+          "University of East Anglia, Climatic Research Unit"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "University of East Anglia, Climatic Research Unit",
+            "institution_ids": [
+              "https://openalex.org/I1118541"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5013277520",
+          "display_name": "D.W.S. Limbert",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I1319328641",
+            "display_name": "British Antarctic Survey",
+            "ror": "https://ror.org/01rhff309",
+            "country_code": "GB",
+            "type": "government",
+            "lineage": [
+              "https://openalex.org/I1319328641",
+              "https://openalex.org/I141816643",
+              "https://openalex.org/I4210087105"
+            ]
+          }
+        ],
+        "countries": [
+          "GB"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Limbert, D. W. S",
+        "raw_affiliation_strings": [
+          "British Antarctic Survey"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "British Antarctic Survey",
+            "institution_ids": [
+              "https://openalex.org/I1319328641"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": null,
+          "display_name": "United States.    Dept. of Energy.    Office of Energy Research",
+          "orcid": null
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": false,
+        "raw_author_name": "United States.    Dept. of Energy.    Office of Energy Research",
+        "raw_affiliation_strings": [],
+        "affiliations": []
+      }
+    ],
+    "publication_year": 2023,
+    "doi": "https://doi.org/10.3334/cdiac/cli.ndp032",
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/surface-pressure",
+        "display_name": "Surface pressure",
+        "score": 0.5300537943840027
+      },
+      {
+        "id": "https://openalex.org/keywords/surface",
+        "display_name": "Surface (topology)",
+        "score": 0.48956069350242615
+      },
+      {
+        "id": "https://openalex.org/keywords/environmental-science",
+        "display_name": "Environmental science",
+        "score": 0.35705268383026123
+      },
+      {
+        "id": "https://openalex.org/keywords/climatology",
+        "display_name": "Climatology",
+        "score": 0.32899245619773865
+      },
+      {
+        "id": "https://openalex.org/keywords/meteorology",
+        "display_name": "Meteorology",
+        "score": 0.31313028931617737
+      },
+      {
+        "id": "https://openalex.org/keywords/geography",
+        "display_name": "Geography",
+        "score": 0.2874552011489868
+      },
+      {
+        "id": "https://openalex.org/keywords/geology",
+        "display_name": "Geology",
+        "score": 0.2798600196838379
+      },
+      {
+        "id": "https://openalex.org/keywords/mathematics",
+        "display_name": "Mathematics",
+        "score": 0.1812322437763214
+      },
+      {
+        "id": "https://openalex.org/keywords/geometry",
+        "display_name": "Geometry",
+        "score": 0.13038411736488342
+      }
+    ],
+    "primary_location": {
+      "id": "pmh:oai:osti.gov:1394934",
+      "is_oa": true,
+      "landing_page_url": "https://www.osti.gov/biblio/1394934",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306402487",
+        "display_name": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I139351228",
+        "host_organization_name": "Office of Scientific and Technical Information",
+        "host_organization_lineage": [
+          "https://openalex.org/I139351228"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "",
+      "raw_type": ""
+    }
+  },
+  {
+    "id": "https://openalex.org/W4229540937",
+    "title": "The Determinants of Aid in the Post-Cold War Era",
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5014264787",
+          "display_name": "Subhayu Bandyopadhyay",
+          "orcid": "https://orcid.org/0000-0003-1626-6543"
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": true,
+        "raw_author_name": "Subhayu B",
+        "raw_affiliation_strings": [],
+        "affiliations": []
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5004839775",
+          "display_name": "Howard J. Wall",
+          "orcid": null
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": false,
+        "raw_author_name": "Howard J. Wall",
+        "raw_affiliation_strings": [],
+        "affiliations": []
+      }
+    ],
+    "publication_year": 2011,
+    "doi": null,
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/cold-war",
+        "display_name": "Cold war",
+        "score": 0.6888847351074219
+      },
+      {
+        "id": "https://openalex.org/keywords/history",
+        "display_name": "History",
+        "score": 0.4080309569835663
+      },
+      {
+        "id": "https://openalex.org/keywords/ancient-history",
+        "display_name": "Ancient history",
+        "score": 0.36451971530914307
+      },
+      {
+        "id": "https://openalex.org/keywords/geography",
+        "display_name": "Geography",
+        "score": 0.35186028480529785
+      },
+      {
+        "id": "https://openalex.org/keywords/economic-history",
+        "display_name": "Economic history",
+        "score": 0.3383309245109558
+      },
+      {
+        "id": "https://openalex.org/keywords/political-science",
+        "display_name": "Political science",
+        "score": 0.32955288887023926
+      },
+      {
+        "id": "https://openalex.org/keywords/law",
+        "display_name": "Law",
+        "score": 0.09852209687232971
+      },
+      {
+        "id": "https://openalex.org/keywords/politics",
+        "display_name": "Politics",
+        "score": 0.059644341468811035
+      }
+    ],
+    "primary_location": {
+      "id": "pmh:oai:CiteSeerX.psu:10.1.1.204.1931",
+      "is_oa": false,
+      "landing_page_url": "http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.204.1931",
+      "pdf_url": null,
+      "source": null,
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "http://research.stlouisfed.org/publications/review/07/11/Bandyopadhyay.pdf",
+      "raw_type": "text"
+    }
+  },
+  {
+    "id": "https://openalex.org/W67052299",
+    "title": "The Child Protection and Mothers in Substance Abuse Treatment",
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5043220956",
+          "display_name": "Stephanie Taplin",
+          "orcid": "https://orcid.org/0000-0001-8752-009X"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I86695891",
+            "display_name": "Australian Catholic University",
+            "ror": "https://ror.org/04cxm4j25",
+            "country_code": "AU",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I86695891"
+            ]
+          }
+        ],
+        "countries": [
+          "AU"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Taplin, Stephanie Ann",
+        "raw_affiliation_strings": [
+          "Australian Catholic University"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Australian Catholic University",
+            "institution_ids": [
+              "https://openalex.org/I86695891"
+            ]
+          }
+        ]
+      }
+    ],
+    "publication_year": 2009,
+    "doi": "https://doi.org/10.26199/acu.88w82",
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/child-protection",
+        "display_name": "Child protection",
+        "score": 0.6232196688652039
+      },
+      {
+        "id": "https://openalex.org/keywords/substance-abuse-treatment",
+        "display_name": "Substance abuse treatment",
+        "score": 0.5904393196105957
+      },
+      {
+        "id": "https://openalex.org/keywords/substance-abuse",
+        "display_name": "Substance abuse",
+        "score": 0.4499017000198364
+      },
+      {
+        "id": "https://openalex.org/keywords/psychology",
+        "display_name": "Psychology",
+        "score": 0.415643572807312
+      },
+      {
+        "id": "https://openalex.org/keywords/substance-use",
+        "display_name": "Substance use",
+        "score": 0.4107188880443573
+      },
+      {
+        "id": "https://openalex.org/keywords/child-abuse",
+        "display_name": "Child abuse",
+        "score": 0.4105340242385864
+      },
+      {
+        "id": "https://openalex.org/keywords/environmental-health",
+        "display_name": "Environmental health",
+        "score": 0.3451460003852844
+      },
+      {
+        "id": "https://openalex.org/keywords/psychiatry",
+        "display_name": "Psychiatry",
+        "score": 0.31272798776626587
+      },
+      {
+        "id": "https://openalex.org/keywords/medicine",
+        "display_name": "Medicine",
+        "score": 0.2369580864906311
+      },
+      {
+        "id": "https://openalex.org/keywords/suicide-prevention",
+        "display_name": "Suicide prevention",
+        "score": 0.09855958819389343
+      },
+      {
+        "id": "https://openalex.org/keywords/poison-control",
+        "display_name": "Poison control",
+        "score": 0.08792802691459656
+      },
+      {
+        "id": "https://openalex.org/keywords/nursing",
+        "display_name": "Nursing",
+        "score": 0.053577721118927
+      }
+    ],
+    "primary_location": {
+      "id": "mag:67052299",
+      "is_oa": false,
+      "landing_page_url": "https://acuresearchbank.acu.edu.au/item/88w82/the-child-protection-and-mothers-in-substance-abuse-treatment",
+      "pdf_url": null,
+      "source": null,
+      "license": null,
+      "license_id": null,
+      "version": null,
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": null
+    }
+  },
+  {
+    "id": "https://openalex.org/W2913934758",
+    "title": "Personality Analysis Through Handwriting",
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5041059659",
+          "display_name": "Rashi Kacker",
+          "orcid": null
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": true,
+        "raw_author_name": "., Rashi Kacker",
+        "raw_affiliation_strings": [],
+        "affiliations": []
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5042380040",
+          "display_name": "Hima Bindu Maringanti",
+          "orcid": "https://orcid.org/0000-0002-4396-8519"
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": false,
+        "raw_author_name": "., Hima Bindu Maringanti",
+        "raw_affiliation_strings": [],
+        "affiliations": []
+      }
+    ],
+    "publication_year": 2014,
+    "doi": null,
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/handwriting",
+        "display_name": "Handwriting",
+        "score": 0.88780677318573
+      },
+      {
+        "id": "https://openalex.org/keywords/personality",
+        "display_name": "Personality",
+        "score": 0.6686127781867981
+      },
+      {
+        "id": "https://openalex.org/keywords/psychology",
+        "display_name": "Psychology",
+        "score": 0.4885300397872925
+      },
+      {
+        "id": "https://openalex.org/keywords/cognitive-psychology",
+        "display_name": "Cognitive psychology",
+        "score": 0.34801214933395386
+      },
+      {
+        "id": "https://openalex.org/keywords/computer-science",
+        "display_name": "Computer science",
+        "score": 0.3326337933540344
+      },
+      {
+        "id": "https://openalex.org/keywords/social-psychology",
+        "display_name": "Social psychology",
+        "score": 0.25637099146842957
+      },
+      {
+        "id": "https://openalex.org/keywords/artificial-intelligence",
+        "display_name": "Artificial intelligence",
+        "score": 0.23692569136619568
+      }
+    ],
+    "primary_location": {
+      "id": "pmh:oai:ojs.dl6.globalstf.org:article/696",
+      "is_oa": false,
+      "landing_page_url": "http://dl6.globalstf.org/index.php/joc/article/view/696",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401058",
+        "display_name": "Open Journal Systems (Global Science & Technology Forum)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "GSTF Journal on Computing (JoC); Vol 2, No 1 (2012): Journal on Computing (JoC)",
+      "raw_type": "info:eu-repo/semantics/article"
+    }
+  },
+  {
+    "id": "https://openalex.org/W2275435996",
+    "title": "Determining the optimization seeding rate for improved productivity of wheat under Southern Egypt conditions",
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5081882052",
+          "display_name": "Iqbal Zahid",
+          "orcid": "https://orcid.org/0000-0002-1508-306X"
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": true,
+        "raw_author_name": "Iqbal, Zahid",
+        "raw_affiliation_strings": [],
+        "affiliations": []
+      }
+    ],
+    "publication_year": 2015,
+    "doi": "https://doi.org/10.6084/m9.figshare.1537379.v1",
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/seeding",
+        "display_name": "Seeding",
+        "score": 0.9663832187652588
+      },
+      {
+        "id": "https://openalex.org/keywords/productivity",
+        "display_name": "Productivity",
+        "score": 0.7336438298225403
+      },
+      {
+        "id": "https://openalex.org/keywords/agronomy",
+        "display_name": "Agronomy",
+        "score": 0.48365533351898193
+      },
+      {
+        "id": "https://openalex.org/keywords/environmental-science",
+        "display_name": "Environmental science",
+        "score": 0.398024320602417
+      },
+      {
+        "id": "https://openalex.org/keywords/agricultural-engineering",
+        "display_name": "Agricultural engineering",
+        "score": 0.3411176800727844
+      },
+      {
+        "id": "https://openalex.org/keywords/mathematics",
+        "display_name": "Mathematics",
+        "score": 0.3298642039299011
+      },
+      {
+        "id": "https://openalex.org/keywords/biology",
+        "display_name": "Biology",
+        "score": 0.32503435015678406
+      },
+      {
+        "id": "https://openalex.org/keywords/economics",
+        "display_name": "Economics",
+        "score": 0.14692923426628113
+      },
+      {
+        "id": "https://openalex.org/keywords/engineering",
+        "display_name": "Engineering",
+        "score": 0.126115620136261
+      }
+    ],
+    "primary_location": {
+      "id": "pmh:oai:figshare.com:article/1537379",
+      "is_oa": true,
+      "landing_page_url": null,
+      "pdf_url": "https://figshare.com/articles/journal_contribution/Determining_the_optimization_seeding_rate_for_improved_productivity_of_wheat_under_Southern_Egypt_conditions/1537379",
+      "source": {
+        "id": "https://openalex.org/S4377196282",
+        "display_name": "Figshare",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I4210132348",
+        "host_organization_name": "Figshare (United Kingdom)",
+        "host_organization_lineage": [
+          "https://openalex.org/I4210132348"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "",
+      "raw_type": "Text"
+    }
+  },
+  {
+    "id": "https://openalex.org/W3193290374",
+    "title": "The growth of COVID-19 scientific literature: A forecast analysis of different daily time series in specific settings",
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5031294108",
+          "display_name": "Daniel Torres\u2010Salinas",
+          "orcid": "https://orcid.org/0000-0001-8790-3314"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I173304897",
+            "display_name": "Universidad de Granada",
+            "ror": "https://ror.org/04njjy449",
+            "country_code": "ES",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I173304897"
+            ]
+          }
+        ],
+        "countries": [
+          "ES"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Torres-Salinas, Daniel",
+        "raw_affiliation_strings": [
+          "University of Granada",
+          "Universidad de Granada"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "University of Granada",
+            "institution_ids": [
+              "https://openalex.org/I173304897"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Universidad de Granada",
+            "institution_ids": [
+              "https://openalex.org/I173304897"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5045484758",
+          "display_name": "Nicol\u00e1s Robinson\u2010Garc\u00eda",
+          "orcid": "https://orcid.org/0000-0002-0585-7359"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I98358874",
+            "display_name": "Delft University of Technology",
+            "ror": "https://ror.org/02e2c7k09",
+            "country_code": "NL",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I98358874"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I173304897",
+            "display_name": "Universidad de Granada",
+            "ror": "https://ror.org/04njjy449",
+            "country_code": "ES",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I173304897"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I4210093841",
+            "display_name": "Institute of Applied Mathematics",
+            "ror": "https://ror.org/00h9jx107",
+            "country_code": "RU",
+            "type": "facility",
+            "lineage": [
+              "https://openalex.org/I1313323035",
+              "https://openalex.org/I1313323035",
+              "https://openalex.org/I4210093841",
+              "https://openalex.org/I4210124601",
+              "https://openalex.org/I4210148470"
+            ]
+          }
+        ],
+        "countries": [
+          "ES",
+          "NL",
+          "RU"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Robinson-Garcia, Nicolas",
+        "raw_affiliation_strings": [
+          "Delft Institute of Applied Mathematics, TU Delft",
+          "Universidad de Granada"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Delft Institute of Applied Mathematics, TU Delft",
+            "institution_ids": [
+              "https://openalex.org/I4210093841",
+              "https://openalex.org/I98358874"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Universidad de Granada",
+            "institution_ids": [
+              "https://openalex.org/I173304897"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5025614078",
+          "display_name": "Fran\u00e7ois Van Schalkwyk",
+          "orcid": "https://orcid.org/0000-0002-1048-0429"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I26092322",
+            "display_name": "Stellenbosch University",
+            "ror": "https://ror.org/05bk57929",
+            "country_code": "ZA",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I26092322"
+            ]
+          }
+        ],
+        "countries": [
+          "ZA"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "van Schalkwyk, Fran\u00e7ois",
+        "raw_affiliation_strings": [
+          "Stellenbosch University"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Stellenbosch University",
+            "institution_ids": [
+              "https://openalex.org/I26092322"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5066984300",
+          "display_name": "Gabriela F. Nane",
+          "orcid": "https://orcid.org/0000-0002-3614-1820"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I98358874",
+            "display_name": "Delft University of Technology",
+            "ror": "https://ror.org/02e2c7k09",
+            "country_code": "NL",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I98358874"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I4210093841",
+            "display_name": "Institute of Applied Mathematics",
+            "ror": "https://ror.org/00h9jx107",
+            "country_code": "RU",
+            "type": "facility",
+            "lineage": [
+              "https://openalex.org/I1313323035",
+              "https://openalex.org/I1313323035",
+              "https://openalex.org/I4210093841",
+              "https://openalex.org/I4210124601",
+              "https://openalex.org/I4210148470"
+            ]
+          }
+        ],
+        "countries": [
+          "NL",
+          "RU"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Nane, Gabriela F.",
+        "raw_affiliation_strings": [
+          "Delft Institute of Applied Mathematics, TU Delft",
+          "TU Delft"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Delft Institute of Applied Mathematics, TU Delft",
+            "institution_ids": [
+              "https://openalex.org/I4210093841",
+              "https://openalex.org/I98358874"
+            ]
+          },
+          {
+            "raw_affiliation_string": "TU Delft",
+            "institution_ids": [
+              "https://openalex.org/I98358874"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5033558251",
+          "display_name": "Pedro \u00c1. Castillo",
+          "orcid": "https://orcid.org/0000-0002-5258-0620"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I173304897",
+            "display_name": "Universidad de Granada",
+            "ror": "https://ror.org/04njjy449",
+            "country_code": "ES",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I173304897"
+            ]
+          }
+        ],
+        "countries": [
+          "ES"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Castillo-Valdivieso, Pedro",
+        "raw_affiliation_strings": [
+          "University of Granada",
+          "Universidad de Granada"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "University of Granada",
+            "institution_ids": [
+              "https://openalex.org/I173304897"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Universidad de Granada",
+            "institution_ids": [
+              "https://openalex.org/I173304897"
+            ]
+          }
+        ]
+      }
+    ],
+    "publication_year": 2021,
+    "doi": "https://doi.org/10.5281/zenodo.4478278",
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/metadata",
+        "display_name": "Metadata",
+        "score": 0.8145114183425903
+      },
+      {
+        "id": "https://openalex.org/keywords/coronavirus-disease-2019",
+        "display_name": "Coronavirus disease 2019 (COVID-19)",
+        "score": 0.7361048460006714
+      },
+      {
+        "id": "https://openalex.org/keywords/autoregressive-integrated-moving-average",
+        "display_name": "Autoregressive integrated moving average",
+        "score": 0.7131884098052979
+      },
+      {
+        "id": "https://openalex.org/keywords/data-science",
+        "display_name": "Data science",
+        "score": 0.6970668435096741
+      },
+      {
+        "id": "https://openalex.org/keywords/scientific-literature",
+        "display_name": "Scientific literature",
+        "score": 0.5586761832237244
+      },
+      {
+        "id": "https://openalex.org/keywords/computer-science",
+        "display_name": "Computer science",
+        "score": 0.5317000150680542
+      },
+      {
+        "id": "https://openalex.org/keywords/domain",
+        "display_name": "Domain (mathematical analysis)",
+        "score": 0.5239952802658081
+      },
+      {
+        "id": "https://openalex.org/keywords/2019-20-coronavirus-outbreak",
+        "display_name": "2019-20 coronavirus outbreak",
+        "score": 0.4119095206260681
+      },
+      {
+        "id": "https://openalex.org/keywords/pandemic",
+        "display_name": "Pandemic",
+        "score": 0.41084539890289307
+      },
+      {
+        "id": "https://openalex.org/keywords/information-retrieval",
+        "display_name": "Information retrieval",
+        "score": 0.3335089683532715
+      },
+      {
+        "id": "https://openalex.org/keywords/time-series",
+        "display_name": "Time series",
+        "score": 0.3228546977043152
+      },
+      {
+        "id": "https://openalex.org/keywords/world-wide-web",
+        "display_name": "World Wide Web",
+        "score": 0.24771544337272644
+      },
+      {
+        "id": "https://openalex.org/keywords/mathematics",
+        "display_name": "Mathematics",
+        "score": 0.13964560627937317
+      },
+      {
+        "id": "https://openalex.org/keywords/infectious-disease",
+        "display_name": "Infectious disease (medical specialty)",
+        "score": 0.08770203590393066
+      },
+      {
+        "id": "https://openalex.org/keywords/machine-learning",
+        "display_name": "Machine learning",
+        "score": 0.08736690878868103
+      },
+      {
+        "id": "https://openalex.org/keywords/medicine",
+        "display_name": "Medicine",
+        "score": 0.07715785503387451
+      }
+    ],
+    "primary_location": {
+      "id": "pmh:oai:digibug.ugr.es:10481/66162",
+      "is_oa": true,
+      "landing_page_url": "http://hdl.handle.net/10481/66162",
+      "pdf_url": "http://hdl.handle.net/10481/66162",
+      "source": {
+        "id": "https://openalex.org/S4306400567",
+        "display_name": "Institutional Repository of the University of Granada (University of Granada)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I173304897",
+        "host_organization_name": "Universidad de Granada",
+        "host_organization_lineage": [
+          "https://openalex.org/I173304897"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "other-oa",
+      "license_id": "https://openalex.org/licenses/other-oa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "",
+      "raw_type": "info:eu-repo/semantics/conferenceObject"
+    }
+  },
+  {
+    "id": "https://openalex.org/W2774609937",
+    "title": "Contact-dependent transfer of TiO<sub>2</sub> nanoparticles between mammalian cells",
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5036584692",
+          "display_name": "Julia Schoelermann",
+          "orcid": "https://orcid.org/0000-0001-5911-9688"
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": true,
+        "raw_author_name": "Schoelermann, Julia",
+        "raw_affiliation_strings": [],
+        "affiliations": []
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5079021093",
+          "display_name": "Anne Burtey",
+          "orcid": "https://orcid.org/0000-0003-4548-8807"
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": false,
+        "raw_author_name": "Burtey, Anne",
+        "raw_affiliation_strings": [],
+        "affiliations": []
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5017413243",
+          "display_name": "Zouhir Ekeland Allouni",
+          "orcid": null
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": false,
+        "raw_author_name": "Ekeland Allouni, Zouhir",
+        "raw_affiliation_strings": [],
+        "affiliations": []
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5110038577",
+          "display_name": "Hans\u2010Hermann Gerdes",
+          "orcid": null
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": false,
+        "raw_author_name": "Gerdes, Hans-Hermann",
+        "raw_affiliation_strings": [],
+        "affiliations": []
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5066367847",
+          "display_name": "Mihaela Roxana Cimpan",
+          "orcid": "https://orcid.org/0000-0003-2029-3173"
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": false,
+        "raw_author_name": "Roxana Cimpan, Mihaela",
+        "raw_affiliation_strings": [],
+        "affiliations": []
+      }
+    ],
+    "publication_year": 2016,
+    "doi": "https://doi.org/10.6084/m9.figshare.2888074.v1",
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/nanoparticle",
+        "display_name": "Nanoparticle",
+        "score": 0.6100329160690308
+      },
+      {
+        "id": "https://openalex.org/keywords/nanotechnology",
+        "display_name": "Nanotechnology",
+        "score": 0.43839749693870544
+      },
+      {
+        "id": "https://openalex.org/keywords/biophysics",
+        "display_name": "Biophysics",
+        "score": 0.40472111105918884
+      },
+      {
+        "id": "https://openalex.org/keywords/chemistry",
+        "display_name": "Chemistry",
+        "score": 0.4016438126564026
+      },
+      {
+        "id": "https://openalex.org/keywords/materials-science",
+        "display_name": "Materials science",
+        "score": 0.38149338960647583
+      },
+      {
+        "id": "https://openalex.org/keywords/biology",
+        "display_name": "Biology",
+        "score": 0.18924778699874878
+      }
+    ],
+    "primary_location": {
+      "id": "pmh:oai:figshare.com:article/2888074",
+      "is_oa": true,
+      "landing_page_url": "https://figshare.com/articles/journal_contribution/Contact_dependent_transfer_of_TiO_sub_2_sub_nanoparticles_between_mammalian_cells/2888074",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4377196282",
+        "display_name": "Figshare",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I4210132348",
+        "host_organization_name": "Figshare (United Kingdom)",
+        "host_organization_lineage": [
+          "https://openalex.org/I4210132348"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "",
+      "raw_type": "Text"
+    }
+  },
+  {
+    "id": "https://openalex.org/W2913782583",
+    "title": "The Use of Personality Assessments in Designing Environmental Enrichment for Garnett's Bushbabies (&lt;i&gt;Otolemur garnettii&lt;/i&gt;)",
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5063897165",
+          "display_name": "Lauren Highfill",
+          "orcid": null
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": true,
+        "raw_author_name": "Highfill, Lauren Elizabeth",
+        "raw_affiliation_strings": [],
+        "affiliations": []
+      }
+    ],
+    "publication_year": 2008,
+    "doi": null,
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/personality",
+        "display_name": "Personality",
+        "score": 0.5592355132102966
+      },
+      {
+        "id": "https://openalex.org/keywords/psychology",
+        "display_name": "Psychology",
+        "score": 0.4689720869064331
+      },
+      {
+        "id": "https://openalex.org/keywords/social-psychology",
+        "display_name": "Social psychology",
+        "score": 0.298367977142334
+      }
+    ],
+    "primary_location": {
+      "id": "pmh:oai:aquila.usm.edu:dissertations-2174",
+      "is_oa": false,
+      "landing_page_url": "https://aquila.usm.edu/dissertations/1143",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306402529",
+        "display_name": "Aquila Digital Community (University of Southern Mississippi)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I44854399",
+        "host_organization_name": "University of Southern Mississippi",
+        "host_organization_lineage": [
+          "https://openalex.org/I44854399"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Dissertations",
+      "raw_type": "text"
+    }
+  },
+  {
+    "id": "https://openalex.org/W2209813384",
+    "title": "Building portable analytical environments to improve sustainability of computational-analysis pipelines in the sciences",
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5005005415",
+          "display_name": "Stephen Piccolo",
+          "orcid": "https://orcid.org/0000-0003-2001-5640"
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": true,
+        "raw_author_name": "Piccolo, Stephen",
+        "raw_affiliation_strings": [],
+        "affiliations": []
+      }
+    ],
+    "publication_year": 2014,
+    "doi": "https://doi.org/10.6084/m9.figshare.1112571.v7",
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/executable",
+        "display_name": "Executable",
+        "score": 0.8015298843383789
+      },
+      {
+        "id": "https://openalex.org/keywords/computer-science",
+        "display_name": "Computer science",
+        "score": 0.7481277585029602
+      },
+      {
+        "id": "https://openalex.org/keywords/scripting-language",
+        "display_name": "Scripting language",
+        "score": 0.68803870677948
+      },
+      {
+        "id": "https://openalex.org/keywords/software-engineering",
+        "display_name": "Software engineering",
+        "score": 0.6311099529266357
+      },
+      {
+        "id": "https://openalex.org/keywords/software",
+        "display_name": "Software",
+        "score": 0.6253007054328918
+      },
+      {
+        "id": "https://openalex.org/keywords/pipeline",
+        "display_name": "Pipeline (software)",
+        "score": 0.5661464333534241
+      },
+      {
+        "id": "https://openalex.org/keywords/component",
+        "display_name": "Component (thermodynamics)",
+        "score": 0.5087388157844543
+      },
+      {
+        "id": "https://openalex.org/keywords/virtual-machine",
+        "display_name": "Virtual machine",
+        "score": 0.5018279552459717
+      },
+      {
+        "id": "https://openalex.org/keywords/source-code",
+        "display_name": "Source code",
+        "score": 0.42963454127311707
+      },
+      {
+        "id": "https://openalex.org/keywords/operating-system",
+        "display_name": "Operating system",
+        "score": 0.31023216247558594
+      }
+    ],
+    "primary_location": {
+      "id": "pmh:oai:figshare.com:article/1112571",
+      "is_oa": true,
+      "landing_page_url": null,
+      "pdf_url": "https://figshare.com/articles/journal_contribution/Building_Portable_Analytical_Environments_to_improve_sustainability_of_computational_analysis_pipelines_in_the_sciences/1112571",
+      "source": {
+        "id": "https://openalex.org/S4377196282",
+        "display_name": "Figshare",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I4210132348",
+        "host_organization_name": "Figshare (United Kingdom)",
+        "host_organization_lineage": [
+          "https://openalex.org/I4210132348"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "other-oa",
+      "license_id": "https://openalex.org/licenses/other-oa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "",
+      "raw_type": "Text"
+    }
+  }
+]
