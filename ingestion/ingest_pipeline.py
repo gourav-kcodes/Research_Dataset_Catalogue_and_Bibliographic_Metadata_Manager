@@ -15,6 +15,10 @@ import json
 import os
 import logging
 from api_fetcher import fetch_zenodo, fetch_kaggle, fetch_openalex, fetch_datacite
+from normaliser import run_normalisation
+import sys
+sys.path.append(os.path.join(os.path.dirname(__file__), '..', 'database'))
+from schema import get_connection, init_db
 
 # ─────────────────────────────────────────────
 #  Logging Setup
@@ -141,17 +145,55 @@ def run_ingestion(max_records=100):
     with open(out_path, "w") as f:
         json.dump(unique_records, f, indent=2)
 
-    # ── Summary ──────────────────────────────────
+    # ── Step 7: Normalise all records ─────────────────
+    logger.info("Normalising all records into standard schema...")
+    normalised_records = run_normalisation(
+        input_path=os.path.join(RAW_DIR, "all_raw.json"),
+        output_path="data/processed/all_normalised.json"
+    )
+    logger.info(f"Normalisation complete — {len(normalised_records)} records ready for DB")
+
+    # ── Step 8: Write pipeline_run_log to DB ──────────
+    logger.info("Writing pipeline run summary to database...")
+    try:
+        db_conn = get_connection("database/catalogue.db")
+        init_db(db_conn)
+        with db_conn:
+            for source_name, source_records in [
+                ("zenodo",    zenodo_records),
+                ("kaggle",    kaggle_records),
+                ("openalex",  openalex_records),
+                ("datacite",  datacite_records),
+            ]:
+                db_conn.execute(
+                    """
+                    INSERT INTO pipeline_run_log
+                        (source, records_fetched, records_accepted, duplicates_found)
+                    VALUES (?, ?, ?, ?)
+                    """,
+                    (
+                        source_name,
+                        len(source_records),
+                        len(source_records),   # accepted = fetched at ingestion stage
+                        dup_count,             # total duplicates removed across all sources
+                    )
+                )
+        logger.info("pipeline_run_log updated successfully")
+    except Exception as e:
+        logger.warning(f"Could not write to pipeline_run_log: {e} — pipeline continues")
+
+    # ── Summary ──────────────────────────────────────
     logger.info("=" * 50)
     logger.info("INGESTION PIPELINE COMPLETE")
-    logger.info(f"  Total fetched    : {len(all_records)}")
-    logger.info(f"  Duplicates found : {dup_count}")
-    logger.info(f"  Unique records   : {len(unique_records)}")
-    logger.info(f"  Saved to         : {out_path}")
+    logger.info(f"  Total fetched      : {len(all_records)}")
+    logger.info(f"  Duplicates found   : {dup_count}")
+    logger.info(f"  Unique records     : {len(unique_records)}")
+    logger.info(f"  Normalised records : {len(normalised_records)}")
+    logger.info(f"  Saved raw to       : {out_path}")
+    logger.info(f"  Saved normalised to: data/processed/all_normalised.json")
     logger.info("=" * 50)
-
-    return unique_records
-
+    
+    return unique_records  # raw unique records still returned for compatibility
 
 # ─────────────────────────────────────────────
 #  Run directly
