@@ -170,7 +170,7 @@ def normalise_openalex(record):
     # Keywords
     keywords_raw = record.get("keywords", [])
     if isinstance(keywords_raw, list):
-        keywords = [k.get("keyword", "") if isinstance(k, dict) else str(k)
+        keywords = [k.get("display_name", "") if isinstance(k, dict) else str(k)
                     for k in keywords_raw]
     else:
         keywords = []
