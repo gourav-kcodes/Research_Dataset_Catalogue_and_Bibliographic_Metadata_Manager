@@ -279,12 +279,12 @@ def _insert_record(conn: sqlite3.Connection, record: dict) -> int | None:
 # ---------------------------------------------------------------------------
 
 def _write_pipeline_run_log(
-    conn: sqlite3.Connection,
-    source: str,
-    records_fetched: int,
-    records_accepted: int,
-    records_rejected: int,
-    duplicates_found: int,
+    conn,
+    source           = "db_insertion",   # was "all_sources" — rename this
+    records_fetched  = result.total_input,
+    records_accepted = result.inserted,
+    records_rejected = result.skipped,
+    duplicates_found = result.duplicates_exact + result.duplicates_fuzzy,
 ) -> None:
     """Insert one row into pipeline_run_log for audit purposes."""
     try:
