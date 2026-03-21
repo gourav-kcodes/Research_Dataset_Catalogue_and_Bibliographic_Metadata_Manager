@@ -409,11 +409,11 @@ def run_insertion(
     # ── Step 6: Write pipeline_run_log ────────────────────────────────────
     _write_pipeline_run_log(
         conn,
-        source          = "all_sources",
-        records_fetched = result.total_input,
-        records_accepted= result.inserted,
-        records_rejected= result.skipped,
-        duplicates_found= result.duplicates_exact + result.duplicates_fuzzy,
+        source           = "db_insertion",
+        records_fetched  = result.total_input,
+        records_accepted = result.inserted,
+        records_rejected = result.skipped,
+        duplicates_found = result.duplicates_exact + result.duplicates_fuzzy,
     )
 
     # ── Summary ───────────────────────────────────────────────────────────
