@@ -112,10 +112,12 @@ class TestValidateRecord:
         ok, reason = validate_record(valid_record)
         assert not ok and reason == RejectReason.INVALID_DOI
 
-    def test_doi_url_prefix_rejected(self, valid_record):
+    def test_doi_url_prefix_accepted(self, valid_record):
+        # DOIs with https://doi.org/ prefix are normalised and accepted (not rejected)
+        # The validator strips the prefix before checking the format.
         valid_record["doi"] = "https://doi.org/10.1234/abc"
         ok, reason = validate_record(valid_record)
-        assert not ok and reason == RejectReason.INVALID_DOI
+        assert ok and reason is None
 
     def test_missing_year(self, valid_record):
         valid_record.pop("publication_year")
