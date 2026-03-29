@@ -42,7 +42,7 @@ logger = logging.getLogger(__name__)
 # ── Constants ──────────────────────────────────────────────────────────────────
 CURRENT_YEAR: int = datetime.now().year
 DOI_PATTERN = re.compile(r"^10\.\d{4,9}/[^\s]+$")
-
+_DOI_URL_PREFIX_STRIP = re.compile(r"^https?://(dx\.)?doi\.org/", re.IGNORECASE)
 
 # ── Reason codes ───────────────────────────────────────────────────────────────
 class RejectReason:
@@ -135,9 +135,12 @@ def validate_record(record: dict) -> tuple[bool, str | None]:
     if _is_blank(doi) and _is_blank(source_id):
         return False, RejectReason.MISSING_ID
 
-    if not _is_blank(doi) and not _validate_doi(doi):
-        return False, RejectReason.INVALID_DOI
-
+    # Strip URL prefix before checking format — DataCite/Zenodo often include it
+    if not _is_blank(doi):
+        doi_stripped = _DOI_URL_PREFIX_STRIP.sub("", str(doi).strip())
+        if not _validate_doi(doi_stripped):
+            return False, RejectReason.INVALID_DOI
+          
     if _is_blank(record.get("publication_year")):
         return False, RejectReason.MISSING_YEAR
 
