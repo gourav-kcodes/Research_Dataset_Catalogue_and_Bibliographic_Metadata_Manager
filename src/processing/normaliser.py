@@ -92,7 +92,15 @@ def _normalise_authors(authors: Any) -> list[str] | None:
     if authors is None:
         return None
     if isinstance(authors, list):
-        raw_list = [str(a) for a in authors if a]
+        # Handle Zenodo/OpenAlex style: [{"name": "Smith, Jane"}, ...] or plain strings
+        raw_list = []
+        for a in authors:
+            if isinstance(a, dict):
+                name = a.get("name") or a.get("full_name") or a.get("display_name") or ""
+                if name:
+                    raw_list.append(name)
+            elif a:
+                raw_list.append(str(a))
     else:
         raw_list = [a.strip() for a in re.split(r";|&| and ", str(authors)) if a.strip()]
     normalised = [_normalise_author(a) for a in raw_list if a]
