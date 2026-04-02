@@ -4,7 +4,7 @@
 > A reproducible, well-documented bibliographic metadata management system for research datasets.
 
 ---
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/your-username/your-repo)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/gourav-kcodes/Research_Dataset_Catalogue_and_Bibliographic_Metadata_Manager)
 ---
 ## Table of Contents
 
