@@ -1,24 +1,3 @@
-"""
-normaliser.py
--------------
-Abhinav Debbarma — Data Collection & Ingestion
-Normalises raw records from all 4 sources into a flat,
-standard schema that Gaurav's database can insert directly.
-
-Standard output schema:
-{
-    "title":            str or None,
-    "authors":          list of str,
-    "publication_year": int or None,
-    "doi":              str or None,
-    "keywords":         list of str,
-    "repository":       str,
-    "access_url":       str or None,
-    "source":           str,
-    "_md5":             str
-}
-"""
-
 import json
 import os
 import logging
