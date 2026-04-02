@@ -16,10 +16,10 @@ os.makedirs(RAW_DIR, exist_ok=True)
 
 
 # ─────────────────────────────────────────────
-#  ZENODO
+#  1. ZENODO
 # ─────────────────────────────────────────────
 
-def fetch_zenodo(query="research dataset", max_records=25):
+def fetch_zenodo(query="research dataset", max_records=250):
     """
     Fetches records from the Zenodo public API.
     Returns a list of raw record dictionaries.
@@ -29,7 +29,7 @@ def fetch_zenodo(query="research dataset", max_records=25):
     url = "https://zenodo.org/api/records"
     records = []
     page = 1
-    page_size = 10  # fetch 10 at a time
+    page_size = 50  # Increased to fetch in larger batches
 
     while len(records) < max_records:
         params = {
@@ -60,6 +60,9 @@ def fetch_zenodo(query="research dataset", max_records=25):
             logger.debug(f"Zenodo page {page} fetched — {len(hits)} records")
             page += 1
 
+            # Be polite to the API
+            time.sleep(1)
+
         except requests.exceptions.RequestException as e:
             logger.error(f"Zenodo request failed: {e}")
             break
@@ -78,10 +81,10 @@ def fetch_zenodo(query="research dataset", max_records=25):
 
 
 # ─────────────────────────────────────────────
-#  KAGGLE
+#  2. KAGGLE
 # ─────────────────────────────────────────────
 
-def fetch_kaggle(max_records=25):
+def fetch_kaggle(max_records=250):
     """
     Fetches dataset metadata from the Kaggle public API.
     Requires KAGGLE_API_TOKEN set as environment variable.
@@ -102,7 +105,7 @@ def fetch_kaggle(max_records=25):
     while len(records) < max_records:
         params = {
             "page":     page,
-            "pageSize": 20,
+            "pageSize": 100, # Increased from 20 to 100 to reduce API calls
             "sortBy":   "votes"
         }
 
@@ -129,6 +132,9 @@ def fetch_kaggle(max_records=25):
             records.extend(data)
             logger.debug(f"Kaggle page {page} fetched — {len(data)} records")
             page += 1
+            
+            # Be polite to the API
+            time.sleep(1)
 
         except requests.exceptions.RequestException as e:
             logger.error(f"Kaggle request failed: {e}")
@@ -149,7 +155,7 @@ def fetch_kaggle(max_records=25):
 #  3. OPENALEX
 # ─────────────────────────────────────────────
  
-def fetch_openalex(max_records=25):
+def fetch_openalex(max_records=250):
     """
     Fetches dataset records from the OpenAlex public API.
     No API key needed — completely free and open.
@@ -160,7 +166,7 @@ def fetch_openalex(max_records=25):
     url = "https://api.openalex.org/works"
     records = []
     page = 1
-    page_size = 25
+    page_size = 100 # Increased from 25 to 100
  
     while len(records) < max_records:
         params = {
@@ -189,6 +195,9 @@ def fetch_openalex(max_records=25):
             records.extend(results)
             logger.debug(f"OpenAlex page {page} fetched — {len(results)} records")
             page += 1
+            
+            time.sleep(1) # Courtesy delay
+            
         except requests.exceptions.RequestException as e:
             logger.error(f"OpenAlex request failed: {e}")
             break
@@ -208,7 +217,7 @@ def fetch_openalex(max_records=25):
 #  4. DATACITE
 # ─────────────────────────────────────────────
  
-def fetch_datacite(max_records=25):
+def fetch_datacite(max_records=250):
     """
     Fetches dataset DOI records from the DataCite public API.
     No API key needed — completely free and open.
@@ -219,7 +228,7 @@ def fetch_datacite(max_records=25):
     url = "https://api.datacite.org/dois"
     records = []
     page = 1
-    page_size = 25
+    page_size = 100 # Increased from 25 to 100
  
     while len(records) < max_records:
         params = {
@@ -243,6 +252,9 @@ def fetch_datacite(max_records=25):
             records.extend(results)
             logger.debug(f"DataCite page {page} fetched — {len(results)} records")
             page += 1
+            
+            time.sleep(1) # Courtesy delay
+            
         except requests.exceptions.RequestException as e:
             logger.error(f"DataCite request failed: {e}")
             break
@@ -256,3 +268,19 @@ def fetch_datacite(max_records=25):
     logger.info(f"DataCite raw data saved to {out_path}")
  
     return records
+
+
+# ─────────────────────────────────────────────
+#  EXECUTION BLOCK
+# ─────────────────────────────────────────────
+
+if __name__ == "__main__":
+    logger.info("Starting bulk fetch of 1000 datasets (250 per source)...")
+    
+    zenodo_data = fetch_zenodo()
+    kaggle_data = fetch_kaggle()
+    openalex_data = fetch_openalex()
+    datacite_data = fetch_datacite()
+    
+    total_fetched = len(zenodo_data) + len(kaggle_data) + len(openalex_data) + len(datacite_data)
+    logger.info(f"Collection complete. Total datasets gathered: {total_fetched}")
