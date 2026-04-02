@@ -4,7 +4,8 @@
 > A reproducible, well-documented bibliographic metadata management system for research datasets.
 
 ---
-
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/your-username/your-repo)
+---
 ## Table of Contents
 
 - [Project Overview](#project-overview)
