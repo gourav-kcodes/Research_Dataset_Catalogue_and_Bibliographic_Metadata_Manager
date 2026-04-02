@@ -1,15 +1,3 @@
-"""
-ingest_pipeline.py
-------------------
-Abhinav Debbarma — Data Collection & Ingestion
-Orchestrates the full ingestion process across 4 API sources:
-  1. Zenodo     (25 records)
-  2. Kaggle     (25 records)
-  3. OpenAlex   (25 records)
-  4. DataCite   (25 records)
-Total target: 100 records saved to data/raw/all_raw.json
-"""
-
 import hashlib
 import json
 import os
