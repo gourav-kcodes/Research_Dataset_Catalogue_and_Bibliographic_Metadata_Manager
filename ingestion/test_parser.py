@@ -1,12 +1,3 @@
-"""
-test_parser.py
---------------
-Abhinav Debbarma — Data Collection & Ingestion
-Demonstrates that file_parser.py works correctly for:
-  1. CSV  files  (iris.csv)
-  2. JSON files  (sample.json)
-"""
-
 import json
 from file_parser import parse_csv, parse_json
 
