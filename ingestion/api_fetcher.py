@@ -1,10 +1,3 @@
-"""
-api_fetcher.py
---------------
-Abhinav Debbarma - Data Collection & Ingestion
-Fetches bibliographic records from Zenodo, Kaggle, OpenAlex and Datacite REST APIs.
-"""
-
 import requests
 import time
 import json
