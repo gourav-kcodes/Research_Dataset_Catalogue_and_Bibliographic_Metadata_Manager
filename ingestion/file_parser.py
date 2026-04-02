@@ -1,11 +1,3 @@
-"""
-file_parser.py
---------------
-Abhinav Debbarma — Data Collection & Ingestion
-Parses downloaded files from IEEE DataPort and UCI ML Repository.
-Supports BibTeX (.bib), JSON (.json), and CSV (.csv) formats.
-"""
-
 import json
 import csv
 import os
