@@ -4,8 +4,100 @@
 > A reproducible, well-documented bibliographic metadata management system for research datasets.
 
 ---
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/gourav-kcodes/Research_Dataset_Catalogue_and_Bibliographic_Metadata_Manager)
+
+# Running the Project (Instruction Manual)
+
+Follow any one of the methods below to use the project.
+
 ---
+
+##  Method 1: Use Online Version (Easiest)
+
+You can directly access the project without installing anything:
+
+👉 https://nikunj0305-nexus-research-engine.hf.space
+
+> Note: We used Hugging Face Spaces to host the backend since we are not yet familiar with deploying a server directly via GitHub.
+
+---
+
+##  Method 2: Run on Your Computer
+
+Follow these simple steps:
+
+### Step 1: Clone the Repository
+```bash
+git clone <your-repo-url>
+cd Research_Dataset_Catalogue_and_Bibliographic_Metadata_Manager
+````
+
+Or open directly in Codespaces:
+
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/gourav-kcodes/Research_Dataset_Catalogue_and_Bibliographic_Metadata_Manager)
+
+---
+
+### Step 2: Go to Backend Folder
+
+```bash
+cd database
+```
+
+---
+
+### Step 3: Install Required Packages
+
+```bash
+pip install fastapi uvicorn
+```
+
+---
+
+### Step 4: Start the Server
+
+```bash
+uvicorn server:app --reload --port 8000
+```
+
+---
+
+### Step 5: Open in Browser
+
+Go to:
+
+```
+http://localhost:8000
+```
+
+---
+
+##  Quick Command Summary
+
+If you already know the steps, just run:
+
+```bash
+pip install fastapi uvicorn
+uvicorn server:app --reload --port 8000
+```
+
+Then open:
+
+```
+http://localhost:8000
+```
+
+---
+
+##  Important Note
+
+* This project uses **FastAPI** for the backend.
+* Running locally gives full control over the database and functionality.
+* The online version is provided for easy access and demonstration.
+
+
+
+
+
 ## Table of Contents
 
 - [Project Overview](#project-overview)
