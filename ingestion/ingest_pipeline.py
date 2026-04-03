@@ -28,7 +28,7 @@ os.makedirs(RAW_DIR, exist_ok=True)
 
 
 # ─────────────────────────────────────────────
-#  MD5 Hash — for duplicate detection
+#  MD5 Hash — for exact duplicate detection
 # ─────────────────────────────────────────────
 
 def compute_md5(record):
@@ -59,11 +59,11 @@ def tag_record(record, source):
 
 def deduplicate(records):
     """
-    Removes duplicate records by comparing MD5 hashes.
+    Removes exact duplicate records by comparing MD5 hashes.
     If two records have the same hash, only the first is kept.
     """
-    seen_hashes    = set()
-    unique_records = []
+    seen_hashes     = set()
+    unique_records  = []
     duplicate_count = 0
 
     for record in records:
@@ -84,17 +84,18 @@ def deduplicate(records):
 #  MAIN PIPELINE
 # ─────────────────────────────────────────────
 
-def run_ingestion(max_records=100):
+def run_ingestion(max_records=1000):
     """
     Runs the full ingestion pipeline across all 4 API sources.
-    Each source contributes 25 records = 100 total.
+    Each source contributes 250 records = 1000 total.
     """
     logger.info("=" * 50)
     logger.info("INGESTION PIPELINE STARTED")
+    logger.info(f"Target: {max_records} records ({max_records // 4} per source)")
     logger.info("=" * 50)
 
     all_records = []
-    per_source  = max_records // 4   # 25 records each
+    per_source  = max_records // 4   # 250 records each
 
     # ── Step 1: Zenodo ──────────────────────────
     logger.info("Step 1/4 — Fetching from Zenodo...")
@@ -128,12 +129,13 @@ def run_ingestion(max_records=100):
     logger.info("Deduplicating all collected records...")
     unique_records, dup_count = deduplicate(all_records)
 
-    # ── Step 6: Save to data/raw/ ────────────────
+    # ── Step 6: Save raw to data/raw/ ────────────
     out_path = os.path.join(RAW_DIR, "all_raw.json")
     with open(out_path, "w") as f:
         json.dump(unique_records, f, indent=2)
+    logger.info(f"Raw unique records saved to {out_path}")
 
-    # ── Step 7: Normalise all records ─────────────────
+    # ── Step 7: Normalise all records ─────────────
     logger.info("Normalising all records into standard schema...")
     normalised_records = run_normalisation(
         input_path=os.path.join(RAW_DIR, "all_raw.json"),
@@ -141,17 +143,17 @@ def run_ingestion(max_records=100):
     )
     logger.info(f"Normalisation complete — {len(normalised_records)} records ready for DB")
 
-    # ── Step 8: Write pipeline_run_log to DB ──────────
+    # ── Step 8: Write pipeline_run_log to DB ──────
     logger.info("Writing pipeline run summary to database...")
     try:
         db_conn = get_connection("database/catalogue.db")
         init_db(db_conn)
         with db_conn:
             for source_name, source_records in [
-                ("zenodo",    zenodo_records),
-                ("kaggle",    kaggle_records),
-                ("openalex",  openalex_records),
-                ("datacite",  datacite_records),
+                ("zenodo",   zenodo_records),
+                ("kaggle",   kaggle_records),
+                ("openalex", openalex_records),
+                ("datacite", datacite_records),
             ]:
                 db_conn.execute(
                     """
@@ -162,31 +164,32 @@ def run_ingestion(max_records=100):
                     (
                         source_name,
                         len(source_records),
-                        len(source_records),   # accepted = fetched at ingestion stage
-                        dup_count,             # total duplicates removed across all sources
+                        len(source_records),
+                        dup_count,
                     )
                 )
         logger.info("pipeline_run_log updated successfully")
     except Exception as e:
         logger.warning(f"Could not write to pipeline_run_log: {e} — pipeline continues")
 
-    # ── Summary ──────────────────────────────────────
+    # ── Summary ───────────────────────────────────
     logger.info("=" * 50)
     logger.info("INGESTION PIPELINE COMPLETE")
     logger.info(f"  Total fetched      : {len(all_records)}")
-    logger.info(f"  Duplicates found   : {dup_count}")
+    logger.info(f"  Duplicates removed : {dup_count}")
     logger.info(f"  Unique records     : {len(unique_records)}")
     logger.info(f"  Normalised records : {len(normalised_records)}")
-    logger.info(f"  Saved raw to       : {out_path}")
-    logger.info(f"  Saved normalised to: data/processed/all_normalised.json")
+    logger.info(f"  Raw saved to       : {out_path}")
+    logger.info(f"  Normalised saved to: data/processed/all_normalised.json")
     logger.info("=" * 50)
-    
-    return unique_records  # raw unique records still returned for compatibility
+
+    return unique_records
+
 
 # ─────────────────────────────────────────────
 #  Run directly
 # ─────────────────────────────────────────────
 
 if __name__ == "__main__":
-    records = run_ingestion()
+    records = run_ingestion(max_records=1000)
     print(f"\nDone! {len(records)} unique records saved to data/raw/all_raw.json")
